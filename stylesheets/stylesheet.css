@@ -1,5 +1,24 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
+/* Yellow fade */
+:target{
+    -webkit-animation:yellow-fade 3s;
+       -moz-animation:yellow-fade 3s;
+            animation:yellow-fade 3s;
+}
+
+@-webkit-keyframes yellow-fade{
+    5%{ background-color:#ff8; }
+}
+
+@-moz-keyframes yellow-fade{
+    5%{ background-color:#ff8; }
+}
+
+@keyframes yellow-fade{
+    5%{ background-color:#ff8; }
+}
+
 /**
  * 1. Set default font family to sans-serif.
  * 2. Prevent iOS text size adjust after orientation change, without disabling
