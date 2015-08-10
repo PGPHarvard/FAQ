@@ -78,7 +78,11 @@ We hope this helps and appreciate your ongoing support for this study.
 
 ## Special cases (lots of these)	
 complicated questions
-health problems
+
+## Health Problems
+We deeply appreciate how willing our participants are to publicly share their genetic data. Often participants have become interested in this mission as a result their own genetic disease, and together they are building valuable public data for understanding our genomes.
+
+Unfortunately, our project does not provide medical testing. If you need genetic testing for a suspected genetic disorder you must receive clinical genetic testing through your physician. Our project is regrettably unable to assist individuals in determining the causes of their personal genetic diseases.
 special requests
 special offers
 researcher requests
