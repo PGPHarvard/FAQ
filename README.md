@@ -30,8 +30,25 @@ If we want a smaller image, try this
 # Work In Progress: PGP FAQ
 
 ## Specimens/Sequencing
-### When will it be available? 
-### spit?
+### When will my genome be available? 
+All blood samples collected in our blood collection events over the past year or more are in the sequencing pipeline. Some are awaiting sequencing and are safely stored in our freezers, and some are at various stages of the actual sequencing process. 
+
+As you know, sequencing is a lengthy and complex process, and once the sequencing is complete, there is still more that has to be done on our end before your genome is ready to be released to you. Our staff is small, so we have to do the work in batches, thus making the process take longer than we wish it would, and it can often take a year or more. 
+
+### I gave a blood sample, why isn’t it showing on my profile?
+We apologize if your profile does not reflect your sample donation. Please don't be concerned. All donated bllod samples have been logged. Unfortunately, due to our small staff, updating the site to reflect the donation can take time. If too much time has passed, and your sample donation is still not reflected on your profile, please let us know. 
+
+### Whatever happened to my saliva sample?
+Several years ago the PGP collected saliva samples from many PGP participants. Those samples are still safely banked, and that is incredibly valuable data that we hope to utilize one day. 
+
+We are a small but growing study, sequencing is costly, and technology is changing rapidly. What we initially set out to do has conceptually stayed constant. However, how we are getting there has had to shift based on real-world variables that are not always within our control. 
+
+We want to impress upon you that your support and efforts have not been wasted at all, and we do not take it for granted. Although it may personally feel that your individual investment has been underutilized until this point, your willingness to join the PGP and to donate samples (whether they were ever sequenced or not) combined with all the other individuals willing to do so, has helped prove to donors and investors that ours is a project worth investing in. 
+
+Our increasing success at this stage is in large part due to many individuals coming together in good faith over the past decade. If you have been following recent events of the Harvard PGP, you will have noticed blood collection events starting to occur across the country, and we only expect those to increase over time and in more locations. In addition, PersonalGenomes.org has recently announced a new location in Austria, adding a fourth member to the family as well as the introduction of OpenHumans.org https://www.openhumans.org  
+
+Our team of researchers are continually seeking funding for sequencing and forging new relationships with industry partners in the hopes of bringing innovative solutions to participant sequencing needs. 
+
 ### Test Kit Requests
 Participants often ask us if they can send us samples via a “kit” or through a lab or physician in their area. Unfortunately, we are unable at this time to accept blood unless it is collected in one of our group events.  Our scale is really small right now, and processing occurs in batches, so group collection events are our only practical method for blood sample collections at this point. 
 
@@ -39,11 +56,16 @@ We will definitely be letting you know about upcoming collection events, so plea
 
 If you’d like to keep up to date with news about this study (PGP Harvard) as well as other PGP sites around the world, the GET Conference, and the recently announced Open Humans project, you might be interested in following the PersonalGenomes.org blog. It is a great way to stay in touch with what is happening with the PGP and the recently announced Open Humans project. http://blog.personalgenomes.org
 
-##Donation of other genetic data
-#I gave a blood sample, why isn’t it showing on my profile?
-All blood samples collected in our blood collection events over the past year or more are in the sequencing pipeline. Some are awaiting sequencing and are safely stored in our freezers, and some are at various stages of the actual sequencing process. 
+### How can I fund my own genome sequencing? 
+At this time we are not set up for participants to fund their own sequencing through the Harvard PGP. However, if you are interested in having your genome sequenced on your own, the Harvard PGP is capable of accepting donated genomes. In order to participate in our project, it is not required that the genome be sequenced through PGP channels only.
+   
+The Harvard PGP cannot directly recommend or endorse Direct to Consumer (DTC) sequencing providers. However, you may find the following "List of Personal Genome Sequencing and Interpretation Services" a useful place to start your own research into what may be appropriate for you. http://arep.med.harvard.edu/gmc/genome_services.html This list is not necessarily up-to-date, comprehensive, or recommended by the PGP or any affiliated institutions.  
 
-As you know, sequencing is a lengthy and complex process, and once the sequencing is complete, there is still more that has to be done on our end before your genome is ready to be released to you. Our staff is small, so we have to do the work in batches, thus making the process take longer than we wish it would, and it can often take a year or more.   
+In addition, you are welcome to post any questions, comments, or suggestions you may have to the Personal Genome Project Forum http://forum.personal-genome.org (a participant-driven group that is not officially affiliated with the Harvard PGP). You may find the PGP participant community helpful in this regard. 
+
+###Donation of other genetic data
+
+
 
 
 ## Website issues
@@ -66,7 +88,7 @@ This September xx-xx, 2015, the Mind First Foundation will host a very special e
 # GET Conference
 This year the GET Conference will be held in Vienna, Austria on September 17-19, 2015, and will be the first GET Global Conference. Please check out the website here: http://www.getconference.org 
 
-The GETConference and GETLabs you are familiar with will return to Boston in 2016. Please keep your eye out for annoucements through the PGP blog and our newsletter. 
+The GETConference and GETLabs you are familiar with will return to Boston in 2016. Please keep your eye out for annoucements through the PGP blog http://blog.personalgenomes.org and our periodic newsletters. 
 
 
 ## Project info (general)
