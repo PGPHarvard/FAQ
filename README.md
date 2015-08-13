@@ -32,15 +32,15 @@ If we want a smaller image, try this
 ## Specimens/Sequencing
 ### When will it be available? 
 ### spit?
-### test kit requests
+### Test Kit Requests
 Participants often ask us if they can send us samples via a “kit” or through a lab or physician in their area. Unfortunately, we are unable at this time to accept blood unless it is collected in one of our group events.  Our scale is really small right now, and processing occurs in batches, so group collection events are our only practical method for blood sample collections at this point. 
 
 We will definitely be letting you know about upcoming collection events, so please keep your eye out for announcements through email and the PGP site https://my.pgp-hms.org and hopefully an event will be close enough for you to attend in the not-so-distant future. We are still a small project, but we are growing! 
 
 If you’d like to keep up to date with news about this study (PGP Harvard) as well as other PGP sites around the world, the GET Conference, and the recently announced Open Humans project, you might be interested in following the PersonalGenomes.org blog. It is a great way to stay in touch with what is happening with the PGP and the recently announced Open Humans project. http://blog.personalgenomes.org
 
-donation of other genetic data
-I gave a blood sample, why isn’t it showing on my profile?
+##Donation of other genetic data
+#I gave a blood sample, why isn’t it showing on my profile?
 All blood samples collected in our blood collection events over the past year or more are in the sequencing pipeline. Some are awaiting sequencing and are safely stored in our freezers, and some are at various stages of the actual sequencing process. 
 
 As you know, sequencing is a lengthy and complex process, and once the sequencing is complete, there is still more that has to be done on our end before your genome is ready to be released to you. Our staff is small, so we have to do the work in batches, thus making the process take longer than we wish it would, and it can often take a year or more.   
@@ -88,14 +88,16 @@ The PGP's goal is to accelerate research into human health and biology by collec
 ## Special cases (lots of these)	
 complicated questions
 
-Health Problems
+#Health Problems
 We deeply appreciate how willing our participants are to publicly share their genetic data. Often participants have become interested in this mission as a result their own genetic disease, and together they are building valuable public data for understanding our genomes.
 
 Unfortunately, our project does not provide medical testing. If you need genetic testing for a suspected genetic disorder you must receive clinical genetic testing through your physician. Our project is regrettably unable to assist individuals in determining the causes of their personal genetic diseases.
-special requests
-special offers
 
-Researcher Requests for PGP Data
+
+# special requests
+# special offers
+
+### Researcher Requests for PGP Data
 We've recently created a consolidated database of the Harvard PGP data.  We're in the process of putting a link up to the database from the Harvard PGP site but in the mean time you can get a SQLite version of the database by downloading it from the following page:
 
   http://curoverse.link/22d61dd43786c65cd175b04ad6954af0+3119/html/index.html
@@ -112,4 +114,4 @@ The above query does not necessarily represent a complete list of all exome data
 
 If you have any problems accessing the database snapshot or have any further questions, please let us know.
 
-etc. 
+### etc. 
