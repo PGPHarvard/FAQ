@@ -64,6 +64,7 @@ The Harvard PGP cannot directly recommend or endorse Direct to Consumer (DTC) se
 In addition, you are welcome to post any questions, comments, or suggestions you may have to the Personal Genome Project Forum http://forum.personal-genome.org (a participant-driven group that is not officially affiliated with the Harvard PGP). You may find the PGP participant community helpful in this regard. 
 
 ###Donation of other genetic data
+At this time the Harvard PGP is not set up to accept donation of other genetic data except under special circumstances. We are working on having the capability, however. Please contact us if you have questions. 
 
 
 
@@ -82,35 +83,48 @@ Logistics: (specific event)
 No events are scheduled at this time. 
 
 ## Conferences and Events
-# MF2015
+### MF2015
 This September xx-xx, 2015, the Mind First Foundation will host a very special event entitled _________. The event is open to PGP Participants. Please keep your eye out for announcements through the blog and newsletter. This will be an outstanding event. 
 
-# GET Conference
+### GET Conference
 This year the GET Conference will be held in Vienna, Austria on September 17-19, 2015, and will be the first GET Global Conference. Please check out the website here: http://www.getconference.org 
 
 The GETConference and GETLabs you are familiar with will return to Boston in 2016. Please keep your eye out for annoucements through the PGP blog http://blog.personalgenomes.org and our periodic newsletters. 
 
 
 ## Project info (general)
-should I join
-what is this all about
-permanent resident questions
-don’t spam me
-withdrawal
-# How can I participate?
+### How can I participate?
 We are still accepting volunteers, and you can learn more about participating here http://www.personalgenomes.org/harvard/sign-up
-
 
 ### How is the PGP different from other services like 23andMe, FamilyTreeDNA, Ancestry.com, etc.?
 We appreciate your participation in our study and understand that there may be some confusion when it comes to trying to compare our study with some of the direct to consumer services like 23andme, FamilyTreeDNA, Ancestry.com, and so on. 
 
 The PGP's goal is to accelerate research into human health and biology by collecting and sharing genomes and other data from people who have generously chosen to donate it to the public domain. Analysis is a strong interest in our participants, but it's also expensive to perform and maintain, and so our support for it must be minimal in order to achieve our main goals. You may want to consider various commercial services that perform interpretations of this data, including 23andme, Family Tree DNA, or other third party analysis tools (many of these are listed by 23andyou: http://www.23andyou.com/3rdparty).
 
+### Options for US citizens living abroad
+If you are a US citizen or permanent resident, you are eligible to become a participant in the Harvard PGP project even if you are residing in another country. However, participation in our project might be limited since collection of samples can only be done at this time in group events in the US. At this point we aren’t even able to accept samples collected from local US labs or physicians. Of course, if you happen to be in the US when a collection event is happening, you are more than welcome to attend. 
+
+As a participant, we welcome donated data. So if you are unable to attend a collection event but have other data available you are willing to donate to the project such as health data, completion of our trait surveys, 23andme or other direct to consumer sequencing data, etc., that information is very helpful to researchers as well. 
+
+If you are not already aware, PersonalGenomes.org now has other international partners, and perhaps given your location, one of them may be a good fit for you. They are Genom Austria http://www.google.com/url?q=http%3A%2F%2Fgenomaustria.at%2Fdas-projekt%2F&sa=D&sntz=1&usg=AFQjCNF27AsR2lILccziC0O24BMPmhCmyw, PGP UK http://www.google.com/url?q=http%3A%2F%2Fwww.personalgenomes.org%2Fuk%2Fsign-up&sa=D&sntz=1&usg=AFQjCNFTfygDr4TTAlUtgHFBbVSkXR7Nlw, and PGP Canada http://www.google.com/url?q=http%3A%2F%2Fwww.personalgenomes.org%2Fcanada&sa=D&sntz=1&usg=AFQjCNFTmEIQuVqAQeDHRtD47a7GK9hnkg.
+
+Should you still be interested in participating in our study, don’t worry about the address issue for now. Its not required for participation. We use your address to target geographic notification for collection events, and if we start shipping kits again, then we would only be able to support US addresses for that (and then an address would be required to receive a kit).
+
+### Sharing participation issues with family
+The following link may be a useful one to share with your family. It is an article published in Genomes Unzipped by Dan Vorhaus discussing the potential impact of public genomics on the families of participants. In this article, he also includes a copy of the letter he sent to his own family.
+http://genomesunzipped.org/2010/10/why-public-genomics-is-not-a-purely-personal-decision.php
+
+### should I join
+what is this all about
+don’t spam me
+withdrawal
+
+
 
 ## Special cases (lots of these)	
 complicated questions
 
-#Health Problems
+### Can the Harvard PGP Help with my Health Problems?
 We deeply appreciate how willing our participants are to publicly share their genetic data. Often participants have become interested in this mission as a result their own genetic disease, and together they are building valuable public data for understanding our genomes.
 
 Unfortunately, our project does not provide medical testing. If you need genetic testing for a suspected genetic disorder you must receive clinical genetic testing through your physician. Our project is regrettably unable to assist individuals in determining the causes of their personal genetic diseases.
@@ -119,7 +133,7 @@ Unfortunately, our project does not provide medical testing. If you need genetic
 # special requests
 # special offers
 
-### Researcher Requests for PGP Data
+## Researcher Requests for PGP Data
 We've recently created a consolidated database of the Harvard PGP data.  We're in the process of putting a link up to the database from the Harvard PGP site but in the mean time you can get a SQLite version of the database by downloading it from the following page:
 
   http://curoverse.link/22d61dd43786c65cd175b04ad6954af0+3119/html/index.html
