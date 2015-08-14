@@ -30,8 +30,20 @@ If we want a smaller image, try this
 # Work In Progress: PGP FAQ
 
 # Project info (general)
-### How can I participate?
-We are still accepting volunteers, and you can learn more about participating here http://www.personalgenomes.org/harvard/sign-up
+### Are you still enrolling participants? 
+Yes, we are still accepting volunteers and have recently reduced the enrollment age from 21 and older to 18 and older largely in response to participant requests. This was recently announced in our blog. [INSERT LINK] You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up
+
+### Once I join, how can I participate?
+Once you are enrolled in the Harvard PGP, there are many ways to participate that are extremely valuable to researchers even before your genome is sequenced. This is often an overlooked component of the Harvard PGP, and as a participant, it is important to recognize that the data you share, with our without a sequenced genome, is still vital to researchers and lays the groundwork for revolutionizing the way human genmoics research is conducted and funded. 
+
+Some of the ways you can participate prior to sequencing: (I forgot how to make bullets?!)
+   Trait surveys - This standardized data allows researchers to ...  
+   Donate data you already have or may later obtain - by donating your 23andme [GOOD LiST?], or other sequenced data, you ... 
+   Keep your profile up to date - by keeping your data up to date, including medical data and any other data you are willing to share, you provide invaluable resources ....
+   Third-party studies - The Harvard PGP periodically connects participants with other opportunities like  research studies or surveys that might be appropriate or of interest to our participants.
+   Conferences and Labs - The Harvard PGP hosts an annual conference and participant-oriented labs event in Boston called the GETConference and GETLabs. In 2015 the event is entitled GET Global and will be held in Vienna, Austria, in order to celebrate our 3 international partners, PGP Canada, PGP UK, and 
+   [NOTE: I THINK IF WE CAN COME UP WITH A GOOD POSITIVE LIST THAT REINFORCES THAT PARTICIPATION ISN'T JUST SEQUENCING MAYBE IT WILL HELP PUBLIC IMAGE AT LEAST FOR NEW PARTICIPANTS]
+
 
 ### How is the PGP different from other services like 23andMe, FamilyTreeDNA, Ancestry.com, etc.?
 We appreciate your participation in our study and understand that there may be some confusion when it comes to trying to compare our study with some of the direct to consumer services like 23andme, FamilyTreeDNA, Ancestry.com, and so on. 
