@@ -40,9 +40,9 @@ Some of the ways you can participate prior to sequencing: (I forgot how to make 
    * Trait surveys - This standardized data allows researchers to ...  
    * Donate data you already have or may later obtain - by donating your 23andme [GOOD LiST?], or other sequenced data, you ... 
    * Keep your profile up to date - by keeping your data up to date, including medical data and any other data you are willing to share, you provide invaluable resources ....
-   Third-party studies - The Harvard PGP periodically connects participants with other opportunities like  research studies or surveys that might be appropriate or of interest to our participants.
-   Conferences and Labs - The Harvard PGP hosts an annual conference and participant-oriented labs event in Boston called the GETConference and GETLabs. In 2015 the event is entitled GET Global and will be held in Vienna, Austria, in order to celebrate our 3 international partners, PGP Canada, PGP UK, and 
-   [NOTE: I THINK IF WE CAN COME UP WITH A GOOD POSITIVE LIST THAT REINFORCES THAT PARTICIPATION ISN'T JUST SEQUENCING MAYBE IT WILL HELP PUBLIC IMAGE AT LEAST FOR NEW PARTICIPANTS]
+   * Third-party studies - The Harvard PGP periodically connects participants with other opportunities like  research studies or surveys that might be appropriate or of interest to our participants.
+   * Conferences and Labs - The Harvard PGP hosts an annual conference and participant-oriented labs event in Boston called the GETConference and GETLabs. In 2015 the event is entitled GET Global and will be held in Vienna, Austria, in order to celebrate our 3 international partners, PGP Canada, PGP UK, and 
+   * [NOTE: I THINK IF WE CAN COME UP WITH A GOOD POSITIVE LIST THAT REINFORCES THAT PARTICIPATION ISN'T JUST SEQUENCING MAYBE IT WILL HELP PUBLIC IMAGE AT LEAST FOR NEW PARTICIPANTS]
 
 
 ### How is the PGP different from other services like 23andMe, FamilyTreeDNA, Ancestry.com, etc.?
