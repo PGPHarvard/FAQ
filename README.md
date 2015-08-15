@@ -33,6 +33,9 @@ If we want a smaller image, try this
 ### Are you still enrolling participants? 
 Yes, we are still accepting volunteers and have recently reduced the enrollment age from 21 and older to 18 and older largely in response to participant requests. This was recently announced in our blog. [INSERT LINK] You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up
 
+### The Harvard PGP is a research project. What does that mean? 
+[MAYBE WE CAN PUT SOMETHING IN HERE ABOUT EXPECTATIONS, TIME LINES, SOMETHING THAT DEFINES RESEARCH AS OPPOSED TO DTC??? - LOOKING TO HELP EXPECTATIONS HERE]
+
 ### Once I join, how can I participate?
 Once you are enrolled in the Harvard PGP, there are many ways to participate that are extremely valuable to researchers even before your genome is sequenced. This is often an overlooked component of the Harvard PGP, and as a participant, it is important to recognize that the data you share, with our without a sequenced genome, is still vital to researchers and lays the groundwork for revolutionizing the way human genmoics research is conducted and funded. 
 
