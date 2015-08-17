@@ -1,4 +1,5 @@
 # Work In Progress: PGP FAQ
+This is a work-in-progress, none of this information guaranteed to be accurate!
 
 # Project info (general)
 ### Are you still enrolling participants? 
