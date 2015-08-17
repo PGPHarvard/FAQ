@@ -2,6 +2,11 @@
 This is a work-in-progress, none of this information guaranteed to be accurate!
 
 # Project info (general)
+
+# Who is the Harvard PGP? 
+Volunteer organization? 
+What is a research timeline versus commercial?
+
 ### Are you still enrolling participants? 
 Yes, we are still accepting volunteers and have recently (Aug 2015) reduced the enrollment age from 21 and older to 18 and older largely in response to participant requests. This was recently announced in our blog. [INSERT LINK] You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up
 
@@ -17,6 +22,7 @@ Some of the ways you can participate prior to sequencing:
    * Keep your profile up to date - by keeping your data up to date, including medical data and any other data you are willing to share, you provide invaluable resources ....
    * Third-party studies - The Harvard PGP periodically connects participants with other opportunities like  research studies or surveys that might be appropriate or of interest to our participants. All participants qualify for some of these activities and for others, only participants with sequenced genomes can participate. 
    * Conferences and Labs - The Harvard PGP hosts an annual conference and participant-oriented labs event in Boston called the GETConference and GETLabs. In 2015 the event is entitled GET Global and will be held in Vienna, Austria, in order to celebrate our 3 international partners, PGP Canada, PGP UK, and 
+   * 
    * [NOTE: I THINK IF WE CAN COME UP WITH A GOOD POSITIVE LIST THAT REINFORCES THAT PARTICIPATION ISN'T JUST SEQUENCING MAYBE IT WILL HELP PUBLIC IMAGE AT LEAST FOR NEW PARTICIPANTS]
 
 
