@@ -3,7 +3,7 @@ This is a work-in-progress, none of this information guaranteed to be accurate!
 
 # Project info (general)
 ### Are you still enrolling participants? 
-Yes, we are still accepting volunteers and have recently reduced the enrollment age from 21 and older to 18 and older largely in response to participant requests. This was recently announced in our blog. [INSERT LINK] You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up
+Yes, we are still accepting volunteers and have recently (Aug 2015) reduced the enrollment age from 21 and older to 18 and older largely in response to participant requests. This was recently announced in our blog. [INSERT LINK] You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up
 
 ### The Harvard PGP is a research project. What does that mean? 
 [MAYBE WE CAN PUT SOMETHING IN HERE ABOUT EXPECTATIONS, TIME LINES, SOMETHING THAT DEFINES RESEARCH AS OPPOSED TO DTC??? - LOOKING TO HELP EXPECTATIONS HERE]
