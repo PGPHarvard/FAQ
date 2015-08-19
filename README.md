@@ -26,8 +26,7 @@ Some of the ways you can participate prior to sequencing:
    * [NOTE: I THINK IF WE CAN COME UP WITH A GOOD POSITIVE LIST THAT REINFORCES THAT PARTICIPATION ISN'T JUST SEQUENCING MAYBE IT WILL HELP PUBLIC IMAGE AT LEAST FOR NEW PARTICIPANTS]
 
 
-### How is the PGP different from other services like 23andMe, FamilyTreeDNA, Ancestry.com, etc.?
-We appreciate your participation in our study and understand that there may be some confusion when it comes to trying to compare our study with some of the direct to consumer services like 23andme, FamilyTreeDNA, Ancestry.com, and so on. 
+### How is the Harvard PGP different from DTC services that provide ancestry data, clinical genome sequencing, or other genomic data?
 
 The PGP's goal is to accelerate research into human health and biology by collecting and sharing genomes and other data from people who have generously chosen to donate it to the public domain. Analysis is a strong interest in our participants, but it's also expensive to perform and maintain, and so our support for it must be minimal in order to achieve our main goals. You may want to consider various commercial services that perform interpretations of this data, including 23andme, Family Tree DNA, or other third party analysis tools (many of these are listed by 23andyou: http://www.23andyou.com/3rdparty).
 
