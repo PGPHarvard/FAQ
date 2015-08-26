@@ -13,6 +13,12 @@ Yes, we are still accepting volunteers and have recently (Aug 2015) reduced the 
 ### The Harvard PGP is a research project. What does that mean? 
 [MAYBE WE CAN PUT SOMETHING IN HERE ABOUT EXPECTATIONS, TIME LINES, SOMETHING THAT DEFINES RESEARCH AS OPPOSED TO DTC??? - LOOKING TO HELP EXPECTATIONS HERE]
 
+### Why do I have to get 100% on  your eligibility questionnaire before I can join?
+To date, the PGP remains an unprecedented project. No other United States studies are generating and publicly sharing diverse and identifiable personal data. Given this unique position, the Harvard PGP feels strongly that all participants need to understand clearly what the personal implications are before they participate. We also feel strongly that it is our duty to lay the best ethical foundation possible for any future studies that may follow the PGP model.
+
+It is critical in groundbreaking studies like this one that participants have a strong understanding of the complex, nontrivial risks involved in participation, and that necessarily requires a significant consent process. 
+
+
 ### Once I join, how can I participate?
 Once you are enrolled in the Harvard PGP, there are many ways to participate that are extremely valuable to researchers even before your genome is sequenced. This is often an overlooked component of the Harvard PGP, and as a participant, it is important to recognize that the data you share, with our without a sequenced genome, is still vital to researchers and lays the groundwork for revolutionizing the way human genmoics research is conducted and funded. 
 
