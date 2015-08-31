@@ -102,6 +102,10 @@ If you have having trouble with our PGP website, please contact use at (email ad
 ### Does Micrsoft Healthvault update automatically? 
 Unfortunately, Healthvault does not automatically update in our system. You can find instructions for updating your Healthvault data here: https://my.pgp-hms.org/phrccr
 
+### How can I upload other Health Records?
+If you're able to export PDF, then maybe you can upload that to your profile. You can upload the data here https://my.pgp-hms.org/user_files/new
+
+The data would then be linked to your profile, and if anyone wants to do a deep dive into your health data, it will be there. In the future, there may be the capability of analyzing data with optical character recognition. 
 
 23andme etc upload questions
 enrollment problems
