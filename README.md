@@ -4,8 +4,8 @@ This is a work-in-progress, none of this information guaranteed to be accurate!
 # Project info (general)
 
 # Who is the Harvard PGP? 
-### The Harvard PGP is a research project…. 
-[general blurb explaining what a research project actually is, history, staff makeup, goals, etc. Is it ok to explain that it is an volunteer organization?]
+### ### The Harvard PGP is a research project. What does that mean? 
+[MAYBE WE CAN PUT SOMETHING IN HERE ABOUT EXPECTATIONS, TIME LINES, SOMETHING THAT DEFINES RESEARCH AS OPPOSED TO DTC??? - LOOKING TO HELP EXPECTATIONS HERE, general blurb explaining what a research project actually is, history, staff makeup, goals, etc. Is it ok to explain that it is an volunteer organization?]
 
 ### What doees that mean for participants?  
 [meaning what does participating in a research project AND a revolutionary idea of open science/sharing mean for participants in terms of timeline, effects on how research is conducted in the future, etc?
@@ -14,17 +14,15 @@ This is a work-in-progress, none of this information guaranteed to be accurate!
 [not sure how to word this] 
 The PGP's goal is to accelerate research into human health and biology by collecting and sharing genomes and other data from people who have generously chosen to donate it to the public domain. Analysis is a strong interest in our participants, but it's also expensive to perform and maintain, and so our support for it must be minimal in order to achieve our main goals. You may want to consider various commercial services that perform interpretations of this data, including 23andme, Family Tree DNA, or other third party analysis tools (many of these are listed by 23andyou: http://www.23andyou.com/3rdparty).
 
+# Enrollment
+
 ### Are you still enrolling participants? 
 Yes, we are still accepting volunteers and have recently (Aug 2015) reduced the enrollment age from 21 and older to 18 and older largely in response to participant requests. This was recently announced in our blog. [INSERT LINK] You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up
-
-### The Harvard PGP is a research project. What does that mean? 
-[MAYBE WE CAN PUT SOMETHING IN HERE ABOUT EXPECTATIONS, TIME LINES, SOMETHING THAT DEFINES RESEARCH AS OPPOSED TO DTC??? - LOOKING TO HELP EXPECTATIONS HERE]
 
 ### Why do I have to get 100% on  your eligibility questionnaire before I can join?
 To date, the PGP remains an unprecedented project. No other United States studies are generating and publicly sharing diverse and identifiable personal data. Given this unique position, the Harvard PGP feels strongly that all participants need to understand clearly what the personal implications are before they participate. We also feel strongly that it is our duty to lay the best ethical foundation possible for any future studies that may follow the PGP model.
 
 It is critical in groundbreaking studies like this one that participants have a strong understanding of the complex, nontrivial risks involved in participation, and that necessarily requires a significant consent process. 
-
 
 ### Once I join, how can I participate?
 Once you are enrolled in the Harvard PGP, there are many ways to participate that are extremely valuable to researchers even before your genome is sequenced. This is often an overlooked component of the Harvard PGP, and as a participant, it is important to recognize that the data you share, with our without a sequenced genome, is still vital to researchers and lays the groundwork for revolutionizing the way human genmoics research is conducted and funded. 
@@ -37,7 +35,6 @@ Some of the ways you can participate prior to sequencing:
    * Conferences and Labs - The Harvard PGP hosts an annual conference and participant-oriented labs event in Boston called the GETConference and GETLabs. In 2015 the event is entitled GET Global and will be held in Vienna, Austria, in order to celebrate our 3 international partners, PGP Canada, PGP UK, and 
    * 
    * [NOTE: I THINK IF WE CAN COME UP WITH A GOOD POSITIVE LIST THAT REINFORCES THAT PARTICIPATION ISN'T JUST SEQUENCING MAYBE IT WILL HELP PUBLIC IMAGE AT LEAST FOR NEW PARTICIPANTS]
-
 
 ### Options for US citizens living abroad
 If you are a US citizen or permanent resident, you are eligible to become a participant in the Harvard PGP project even if you are residing in another country. However, participation in our project might be limited since collection of samples can only be done at this time in group events in the US. At this point we aren’t even able to accept samples collected from local US labs or physicians. Of course, if you happen to be in the US when a collection event is happening, you are more than welcome to attend. 
@@ -52,10 +49,9 @@ Should you still be interested in participating in our study, don’t worry abou
 The following link may be a useful one to share with your family. It is an article published in Genomes Unzipped by Dan Vorhaus discussing the potential impact of public genomics on the families of participants. In this article, he also includes a copy of the letter he sent to his own family.
 http://genomesunzipped.org/2010/10/why-public-genomics-is-not-a-purely-personal-decision.php
 
-### should I join
-what is this all about
-don’t spam me
-withdrawal
+### Should I join?
+
+#I’m already a participant but I have questions [what can this be called?] 
 
 # Specimens/Sequencing
 ### When will my genome be available? 
@@ -88,6 +84,10 @@ If you’d like to keep up to date with news about this study (PGP Harvard) as w
 At this time we are not set up for participants to fund their own sequencing through the Harvard PGP. However, if you are interested in having your genome sequenced on your own, the Harvard PGP is capable of accepting donated genomes. In order to participate in our project, it is not required that the genome be sequenced through PGP channels only.
    
 The Harvard PGP cannot directly recommend or endorse Direct to Consumer (DTC) sequencing providers. However, you may find the following "List of Personal Genome Sequencing and Interpretation Services" a useful place to start your own research into what may be appropriate for you. http://arep.med.harvard.edu/gmc/genome_services.html This list is not necessarily up-to-date, comprehensive, or recommended by the PGP or any affiliated institutions.  
+
+### Don't spam me
+
+### How can I withdraw from the Harvard PGP? 
 
 In addition, you are welcome to post any questions, comments, or suggestions you may have to the Personal Genome Project Forum http://forum.personal-genome.org (a participant-driven group that is not officially affiliated with the Harvard PGP). You may find the PGP participant community helpful in this regard. 
 
