@@ -4,8 +4,12 @@ This is a work-in-progress, none of this information guaranteed to be accurate!
 # Project info (general)
 
 # Who is the Harvard PGP? 
-Volunteer organization? 
-What is a research timeline versus commercial?
+### The Harvard PGP is a research project…. [general blurb explaining what a research project actually is, history, staff makeup, goals, etc. Is it ok to explain that it is an volunteer organization?]
+
+### What doees that mean for participants?  [meaning what does participating in a research project AND a revolutionary idea of open science/sharing mean for participants in terms of timeline, effects on how research is conducted in the future, etc?
+
+### How is the Harvard PGP different from DTC services that provide ancestry data, clinical genome sequencing, or other genomic data? [not sure how to word this] 
+The PGP's goal is to accelerate research into human health and biology by collecting and sharing genomes and other data from people who have generously chosen to donate it to the public domain. Analysis is a strong interest in our participants, but it's also expensive to perform and maintain, and so our support for it must be minimal in order to achieve our main goals. You may want to consider various commercial services that perform interpretations of this data, including 23andme, Family Tree DNA, or other third party analysis tools (many of these are listed by 23andyou: http://www.23andyou.com/3rdparty).
 
 ### Are you still enrolling participants? 
 Yes, we are still accepting volunteers and have recently (Aug 2015) reduced the enrollment age from 21 and older to 18 and older largely in response to participant requests. This was recently announced in our blog. [INSERT LINK] You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up
@@ -31,10 +35,6 @@ Some of the ways you can participate prior to sequencing:
    * 
    * [NOTE: I THINK IF WE CAN COME UP WITH A GOOD POSITIVE LIST THAT REINFORCES THAT PARTICIPATION ISN'T JUST SEQUENCING MAYBE IT WILL HELP PUBLIC IMAGE AT LEAST FOR NEW PARTICIPANTS]
 
-
-### How is the Harvard PGP different from DTC services that provide ancestry data, clinical genome sequencing, or other genomic data?
-
-The PGP's goal is to accelerate research into human health and biology by collecting and sharing genomes and other data from people who have generously chosen to donate it to the public domain. Analysis is a strong interest in our participants, but it's also expensive to perform and maintain, and so our support for it must be minimal in order to achieve our main goals. You may want to consider various commercial services that perform interpretations of this data, including 23andme, Family Tree DNA, or other third party analysis tools (many of these are listed by 23andyou: http://www.23andyou.com/3rdparty).
 
 ### Options for US citizens living abroad
 If you are a US citizen or permanent resident, you are eligible to become a participant in the Harvard PGP project even if you are residing in another country. However, participation in our project might be limited since collection of samples can only be done at this time in group events in the US. At this point we aren’t even able to accept samples collected from local US labs or physicians. Of course, if you happen to be in the US when a collection event is happening, you are more than welcome to attend. 
