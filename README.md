@@ -4,11 +4,14 @@ This is a work-in-progress, none of this information guaranteed to be accurate!
 # Project info (general)
 
 # Who is the Harvard PGP? 
-### The Harvard PGP is a research project…. [general blurb explaining what a research project actually is, history, staff makeup, goals, etc. Is it ok to explain that it is an volunteer organization?]
+### The Harvard PGP is a research project…. 
+[general blurb explaining what a research project actually is, history, staff makeup, goals, etc. Is it ok to explain that it is an volunteer organization?]
 
-### What doees that mean for participants?  [meaning what does participating in a research project AND a revolutionary idea of open science/sharing mean for participants in terms of timeline, effects on how research is conducted in the future, etc?
+### What doees that mean for participants?  
+[meaning what does participating in a research project AND a revolutionary idea of open science/sharing mean for participants in terms of timeline, effects on how research is conducted in the future, etc?
 
-### How is the Harvard PGP different from DTC services that provide ancestry data, clinical genome sequencing, or other genomic data? [not sure how to word this] 
+### How is the Harvard PGP different from DTC services that provide ancestry data, clinical genome sequencing, or other genomic data? 
+[not sure how to word this] 
 The PGP's goal is to accelerate research into human health and biology by collecting and sharing genomes and other data from people who have generously chosen to donate it to the public domain. Analysis is a strong interest in our participants, but it's also expensive to perform and maintain, and so our support for it must be minimal in order to achieve our main goals. You may want to consider various commercial services that perform interpretations of this data, including 23andme, Family Tree DNA, or other third party analysis tools (many of these are listed by 23andyou: http://www.23andyou.com/3rdparty).
 
 ### Are you still enrolling participants? 
