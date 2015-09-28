@@ -4,8 +4,12 @@ This is a work-in-progress, none of this information guaranteed to be accurate!
 # Project info (general)
 
 # Who is the Harvard PGP? 
-### ### The Harvard PGP is a research project. What does that mean? 
-[MAYBE WE CAN PUT SOMETHING IN HERE ABOUT EXPECTATIONS, TIME LINES, SOMETHING THAT DEFINES RESEARCH AS OPPOSED TO DTC??? - LOOKING TO HELP EXPECTATIONS HERE, general blurb explaining what a research project actually is, history, staff makeup, goals, etc. Is it ok to explain that it is an volunteer organization?]
+The Harvard PGP is the founding pilot project in the PersonalGenomes.org Global Network. Our project hosts publicly shared genomic and health data from thousands of participants across the United States. 
+
+### The Harvard PGP is an open science research project. What does that mean? 
+The Harvard PGP was founded in 2005 with a new vision for human health research. The project is designed to create public resources that everyone can access, bringing together genomic, environmental, and human trait data donated by our participants. It is staffed by a small, largely volunteer group of researchers, engineers, and ethicists who are all pioneers in their fields.  
+
+We believe strongly that publicly sharing this data is good for science and good for society. It gives researchers access to human health data that is otherwise extremely difficult to access, thus potentially speeding up solutions to important health issues. We also try to connect participants directly with research, education, and citizen science projects that utilize personal genome data.  
 
 ### What doees that mean for participants?  
 [meaning what does participating in a research project AND a revolutionary idea of open science/sharing mean for participants in terms of timeline, effects on how research is conducted in the future, etc?
