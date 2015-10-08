@@ -58,6 +58,11 @@ http://genomesunzipped.org/2010/10/why-public-genomics-is-not-a-purely-personal-
 #I’m already a participant but I have questions [what can this be called?] 
 
 # Specimens/Sequencing
+### In what order are participants sequenced? 
+Once you have passed the enrollment requirements for participation in the PGP, there are no selection or prioritization criteria other than "the ability to give a sample at a collection event" that determine whether a participant would potentially have a genome sequenced and returned to them. There is no prioritization in response to donations, and also no prioritization based on when a participant joined the project (i.e. there is no "queue"). Sequencing is still a costly and time-consuming process, and it occurs as resources are available. 
+
+While we don’t prioritize sequencing in return for donations, participants are welcome to pursue sequencing through third parties and donate their data to the PGP http://arep.med.harvard.edu/gmc/genome_services.html or participate in the recently announced sequencing opportunity for PGP participants through Veritas Genetics http://www.prnewswire.com/news-releases/veritas-genetics-breaks-1000-whole-genome-barrier-300150585.html
+
 ### When will my genome be available? 
 All blood samples collected in our blood collection events over the past year or more are in the sequencing pipeline. Some are awaiting sequencing and are safely stored in our freezers, and some are at various stages of the actual sequencing process. 
 
@@ -84,7 +89,7 @@ We will definitely be letting you know about upcoming collection events, so plea
 
 If you’d like to keep up to date with news about this study (PGP Harvard) as well as other PGP sites around the world, the GET Conference, and the recently announced Open Humans project, you might be interested in following the PersonalGenomes.org blog. It is a great way to stay in touch with what is happening with the PGP and the recently announced Open Humans project. http://blog.personalgenomes.org
 
-### How can I fund my own genome sequencing? 
+### How can I fund my own genome sequencing? [MODIFY FOR VERITAS OFFER]
 At this time we are not set up for participants to fund their own sequencing through the Harvard PGP. However, if you are interested in having your genome sequenced on your own, the Harvard PGP is capable of accepting donated genomes. In order to participate in our project, it is not required that the genome be sequenced through PGP channels only.
    
 The Harvard PGP cannot directly recommend or endorse Direct to Consumer (DTC) sequencing providers. However, you may find the following "List of Personal Genome Sequencing and Interpretation Services" a useful place to start your own research into what may be appropriate for you. http://arep.med.harvard.edu/gmc/genome_services.html This list is not necessarily up-to-date, comprehensive, or recommended by the PGP or any affiliated institutions.  
