@@ -70,14 +70,14 @@ As you know, sequencing is a lengthy and complex process, and once the sequencin
 
 ### What will I recieve from the Harvard PGP when I get my genome sequence? 
 When our project produces genome data for a participant, this typically means:
-  *Full "genome" sequence data, not genotyping.
-  *Raw data access is provided to participants, in the format we received from the sequencing provider.
-  *We also currently provide a semi-automated genome report that describes reported effects for some variants within the genome data.
-  *This report is NOT clinical: it is limited in scope and may contain errors. The database of knowledge for genome variants is incomplete, and some reported effects are erroneous.
-  *As described in our consent, genome data will become public 30 days after your have private access. Additional technical files may become public without additional notice.
-  *When public, your genome data is associated with your "public profile".
-  *Currently, our genomes are produced by Complete Genomics. Technical details about their raw data files are here: http://www.completegenomics.com/customer-support/documentation/100357139-2/ 
-  *We share a genome's raw "sequence" data (variant and coverage information). Large technical files might not be in the initial release. If/when we do make additional files public, you'll have access to these by virtue of knowing your participant ID.
+   *Full "genome" sequence data, not genotyping.
+   *Raw data access is provided to participants, in the format we received from the sequencing provider.
+   *We also currently provide a semi-automated genome report that describes reported effects for some variants within the genome data.
+   *This report is NOT clinical: it is limited in scope and may contain errors. The database of knowledge for genome variants is incomplete, and some reported effects are erroneous.
+   *As described in our consent, genome data will become public 30 days after your have private access. Additional technical files may become public without additional notice.
+   *When public, your genome data is associated with your "public profile".
+   *Currently, our genomes are produced by Complete Genomics. Technical details about their raw data files are here: http://www.completegenomics.com/customer-support/documentation/100357139-2/ 
+   *We share a genome's raw "sequence" data (variant and coverage information). Large technical files might not be in the initial release. If/when we do make additional files public, you'll have access to these by virtue of knowing your participant ID.
 
 ### I gave a blood sample, why isn’t it showing on my profile?
 We apologize if your profile does not reflect your sample donation. Please don't be concerned. All donated bllod samples have been logged. Unfortunately, due to our small staff, updating the site to reflect the donation can take time. If too much time has passed, and your sample donation is still not reflected on your profile, please let us know. 
