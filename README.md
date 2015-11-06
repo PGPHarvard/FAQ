@@ -1,5 +1,6 @@
-# Work In Progress: PGP FAQ
-This is a work-in-progress, none of this information guaranteed to be accurate!
+# PGP Home
+
+Back to PGP Home: http://my.pgp-hms.org
 
 # Project info (general)
 
@@ -201,7 +202,3 @@ Attached are the results of the above query in the form of CSV files.  The 'down
 The above query does not necessarily represent a complete list of all exome data available through the Harvard PGP site.  Since participants are able to upload data it is difficult for us to definitively determine which of the uploaded data represents exome data.  With the database snapshot available you'll be able to explore this data yourself and might be able to pick out other exome data that might have been missed in the above query.
 
 If you have any problems accessing the database snapshot or have any further questions, please let us know.
-
-### etc. 
-
-### Brach test CFW
