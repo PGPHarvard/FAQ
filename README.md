@@ -12,34 +12,36 @@ The Harvard PGP was founded in 2005 with a new vision for human health research.
 
 We believe strongly that publicly sharing this data is good for science and good for society. It gives researchers access to human health data that is otherwise extremely difficult to access, thus potentially speeding up solutions to important health issues. We also try to connect participants directly with research, education, and citizen science projects that utilize personal genome data.  
 
-### What doees that mean for participants?  
-[meaning what does participating in a research project AND a revolutionary idea of open science/sharing mean for participants in terms of timeline, effects on how research is conducted in the future, etc?
+### What does that mean for participants?  
+By joining the Harvard PGP, participants agree to publicly share health and trait data with researchers. Should their genome be sequenced by the Harvard PGP, participants will have the opportunity to make that sequenced genome public, or participants may have their genome sequenced privately and donate that data to the PGP. The amount of health and trait data participants share can vary widely by participant, but this is valuable data for research. In addition, the Harvard PGP actively helps put participants together with researchers through third-party activities. 
 
 ### How is the Harvard PGP different from DTC services that provide ancestry data, clinical genome sequencing, or other genomic data? 
-[not sure how to word this] 
-The PGP's goal is to accelerate research into human health and biology by collecting and sharing genomes and other data from people who have generously chosen to donate it to the public domain. Analysis is a strong interest in our participants, but it's also expensive to perform and maintain, and so our support for it must be minimal in order to achieve our main goals. You may want to consider various commercial services that perform interpretations of this data, including 23andme, Family Tree DNA, or other third party analysis tools (many of these are listed by 23andyou: http://www.23andyou.com/3rdparty).
+The PGP's goal is to accelerate research into human health and biology by collecting and sharing genomes and other data from people who have generously chosen to donate it to the public domain. Analysis is a strong interest in our participants, but it's also expensive to perform and maintain. Therefore, our support for analysis must be minimal in order to achieve our main goal of data sharing. You may want to consider various commercial services that perform interpretations of this data, including 23andme, Family Tree DNA, Promethease, GEDmatch, or other third party analysis tools (many of these are listed by 23andyou: http://www.23andyou.com/3rdparty).
+
 
 # Enrollment
 
 ### Are you still enrolling participants? 
-Yes, we are still accepting volunteers and have recently (Aug 2015) reduced the enrollment age from 21 and older to 18 and older largely in response to participant requests. This was recently announced in our blog. [INSERT LINK] You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up
+Yes, we are still accepting volunteers! In August 2015 we even reduced the enrollment age from 21 and older to 18 and older, largely in response to participant requests. This was recently announced in our participant newsletter. You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up
+
+### Should I join?
+That is a decision you should make after thoroughly reading and understanding the participation documents on the Harvard PGP site http://www.personalgenomes.org/harvard/sign-up Once you decide to join the Harvard PGP, you will then need to successfully complete the enrollment process. Participation isn't for everyone. 
+
+### Once I join, how can I participate?
+Once you are enrolled in the Harvard PGP, there are many ways to participate that are extremely valuable to researchers even before you have a sequenced genome. This is often an overlooked component of the Harvard PGP, and as a participant, it is important to recognize that the data you share, with our without a sequenced genome, is still vital to researchers and lays the groundwork for revolutionizing the way human genmoics research is conducted and funded. 
+
+Some of the ways you can participate prior to sequencing:
+   * Trait surveys and trait data - This standardized data allows researchers to ... Trait data will be collected via online questionnaires, a personal health record (PHR), and other platforms. Information gathered includes allergies, immunizations, personal medical history, medications, physical traits and measurements, diet, ethnicity/ancestry, lifestyle, environmental exposures and other traits. 
+   * Donate data you already have or may later obtain - by donating your 23andme [GOOD LiST?], or other sequenced data, you ... 
+   * Keep your profile up to date - by keeping your data up to date, including medical data and any other data you are willing to share, you provide invaluable resources to researchers.
+   * Third-party studies - The Harvard PGP periodically connects participants with other opportunities like  research studies or surveys that might be appropriate or of interest to our participants. All participants qualify for some of these activities and for others, only participants with sequenced genomes can participate. 
+   * Conferences and Labs - The Harvard PGP hosts an annual conference and participant-oriented labs event in Boston called the GETConference and GETLabs. In 2015 the event was entitled GET Global and was held in Vienna, Austria, in September to celebrate our 3 international partners, PGP Canada, PGP UK, and Genom Austria. We also partnered with the Mind First Foundation for the first MindEx Conference and PGPalooza, another annual Boston event open to PGP participants! http://mindfirstfoundation.org/mindex2015/ These events directly put researchers and participants face to face. 
 
 ### Why do I have to get 100% on  your eligibility questionnaire before I can join?
 To date, the PGP remains an unprecedented project. No other United States studies are generating and publicly sharing diverse and identifiable personal data. Given this unique position, the Harvard PGP feels strongly that all participants need to understand clearly what the personal implications are before they participate. We also feel strongly that it is our duty to lay the best ethical foundation possible for any future studies that may follow the PGP model.
 
 It is critical in groundbreaking studies like this one that participants have a strong understanding of the complex, nontrivial risks involved in participation, and that necessarily requires a significant consent process. 
 
-### Once I join, how can I participate?
-Once you are enrolled in the Harvard PGP, there are many ways to participate that are extremely valuable to researchers even before your genome is sequenced. This is often an overlooked component of the Harvard PGP, and as a participant, it is important to recognize that the data you share, with our without a sequenced genome, is still vital to researchers and lays the groundwork for revolutionizing the way human genmoics research is conducted and funded. 
-
-Some of the ways you can participate prior to sequencing:
-   * Trait surveys - This standardized data allows researchers to ...  
-   * Donate data you already have or may later obtain - by donating your 23andme [GOOD LiST?], or other sequenced data, you ... 
-   * Keep your profile up to date - by keeping your data up to date, including medical data and any other data you are willing to share, you provide invaluable resources ....
-   * Third-party studies - The Harvard PGP periodically connects participants with other opportunities like  research studies or surveys that might be appropriate or of interest to our participants. All participants qualify for some of these activities and for others, only participants with sequenced genomes can participate. 
-   * Conferences and Labs - The Harvard PGP hosts an annual conference and participant-oriented labs event in Boston called the GETConference and GETLabs. In 2015 the event is entitled GET Global and will be held in Vienna, Austria, in order to celebrate our 3 international partners, PGP Canada, PGP UK, and 
-   * 
-   * [NOTE: I THINK IF WE CAN COME UP WITH A GOOD POSITIVE LIST THAT REINFORCES THAT PARTICIPATION ISN'T JUST SEQUENCING MAYBE IT WILL HELP PUBLIC IMAGE AT LEAST FOR NEW PARTICIPANTS]
 
 ### Options for US citizens living abroad
 If you are a US citizen or permanent resident, you are eligible to become a participant in the Harvard PGP project even if you are residing in another country. However, participation in our project might be limited since collection of samples can only be done at this time in group events in the US. At this point we aren’t even able to accept samples collected from local US labs or physicians. Of course, if you happen to be in the US when a collection event is happening, you are more than welcome to attend. 
@@ -54,7 +56,6 @@ Should you still be interested in participating in our study, don’t worry abou
 The following link may be a useful one to share with your family. It is an article published in Genomes Unzipped by Dan Vorhaus discussing the potential impact of public genomics on the families of participants. In this article, he also includes a copy of the letter he sent to his own family.
 http://genomesunzipped.org/2010/10/why-public-genomics-is-not-a-purely-personal-decision.php
 
-### Should I join?
 
 #I’m already a participant but I have questions [what can this be called?] 
 
