@@ -2,7 +2,6 @@
 
 Back to PGP Home: http://my.pgp-hms.org
 
-# Project info (general)
 
 # Who is the Harvard PGP? 
 The Harvard PGP is the founding pilot project in the PersonalGenomes.org Global Network. Our project hosts publicly shared genomic and health data from thousands of participants across the United States. 
@@ -27,21 +26,9 @@ Yes, we are still accepting volunteers! In August 2015 we even reduced the enrol
 ### Should I join?
 That is a decision you should make after thoroughly reading and understanding the participation documents on the Harvard PGP site http://www.personalgenomes.org/harvard/sign-up Once you decide to join the Harvard PGP, you will then need to successfully complete the enrollment process. Participation isn't for everyone. 
 
-### Once I join, how can I participate?
-Once you are enrolled in the Harvard PGP, there are many ways to participate that are extremely valuable to researchers even before you have a sequenced genome. This is often an overlooked component of the Harvard PGP, and as a participant, it is important to recognize that the data you share, with our without a sequenced genome, is still vital to researchers and lays the groundwork for revolutionizing the way human genmoics research is conducted and funded. 
-
-Some of the ways you can participate prior to sequencing:
-   * Trait surveys and trait data - This standardized data allows researchers to ... Trait data will be collected via online questionnaires, a personal health record (PHR), and other platforms. Information gathered includes allergies, immunizations, personal medical history, medications, physical traits and measurements, diet, ethnicity/ancestry, lifestyle, environmental exposures and other traits. 
-   * Donate data you already have or may later obtain - by donating your 23andme [GOOD LiST?], or other sequenced data, you ... 
-   * Keep your profile up to date - by keeping your data up to date, including medical data and any other data you are willing to share, you provide invaluable resources to researchers.
-   * Third-party studies - The Harvard PGP periodically connects participants with other opportunities like  research studies or surveys that might be appropriate or of interest to our participants. All participants qualify for some of these activities and for others, only participants with sequenced genomes can participate. 
-   * Conferences and Labs - The Harvard PGP hosts an annual conference and participant-oriented labs event in Boston called the GETConference and GETLabs. In 2015 the event was entitled GET Global and was held in Vienna, Austria, in September to celebrate our 3 international partners, PGP Canada, PGP UK, and Genom Austria. We also partnered with the Mind First Foundation for the first MindEx Conference and PGPalooza, another annual Boston event open to PGP participants! http://mindfirstfoundation.org/mindex2015/ These events directly put researchers and participants face to face. 
-
-### Why do I have to get 100% on  your eligibility questionnaire before I can join?
-To date, the PGP remains an unprecedented project. No other United States studies are generating and publicly sharing diverse and identifiable personal data. Given this unique position, the Harvard PGP feels strongly that all participants need to understand clearly what the personal implications are before they participate. We also feel strongly that it is our duty to lay the best ethical foundation possible for any future studies that may follow the PGP model.
-
-It is critical in groundbreaking studies like this one that participants have a strong understanding of the complex, nontrivial risks involved in participation, and that necessarily requires a significant consent process. 
-
+### Sharing participation issues with family
+The following link may be a useful one to share with your family. It is an article published in Genomes Unzipped by Dan Vorhaus discussing the potential impact of public genomics on the families of participants. In this article, he also includes a copy of the letter he sent to his own family.
+http://genomesunzipped.org/2010/10/why-public-genomics-is-not-a-purely-personal-decision.php
 
 ### Options for US citizens living abroad
 If you are a US citizen or permanent resident, you are eligible to become a participant in the Harvard PGP project even if you are residing in another country. However, participation in our project might be limited since collection of samples can only be done at this time in group events in the US. At this point we aren’t even able to accept samples collected from local US labs or physicians. Of course, if you happen to be in the US when a collection event is happening, you are more than welcome to attend. 
@@ -52,12 +39,22 @@ If you are not already aware, PersonalGenomes.org now has other international pa
 
 Should you still be interested in participating in our study, don’t worry about the address issue for now. Its not required for participation. We use your address to target geographic notification for collection events, and if we start shipping kits again, then we would only be able to support US addresses for that (and then an address would be required to receive a kit).
 
-### Sharing participation issues with family
-The following link may be a useful one to share with your family. It is an article published in Genomes Unzipped by Dan Vorhaus discussing the potential impact of public genomics on the families of participants. In this article, he also includes a copy of the letter he sent to his own family.
-http://genomesunzipped.org/2010/10/why-public-genomics-is-not-a-purely-personal-decision.php
+### Why do I have to get 100% on  your eligibility questionnaire before I can join?
+To date, the PGP remains an unprecedented project. No other United States studies are generating and publicly sharing diverse and identifiable personal data. Given this unique position, the Harvard PGP feels strongly that all participants need to understand clearly what the personal implications are before they participate. We also feel strongly that it is our duty to lay the best ethical foundation possible for any future studies that may follow the PGP model.
+
+It is critical in groundbreaking studies like this one that participants have a strong understanding of the complex, nontrivial risks involved in participation, and that necessarily requires a significant consent process. 
 
 
-#I’m already a participant but I have questions [what can this be called?] 
+### Once I join, how can I participate?
+Once you are enrolled in the Harvard PGP, there are many ways to participate that are extremely valuable to researchers even before you have a sequenced genome. This is often an overlooked component of the Harvard PGP, and as a participant, it is important to recognize that the data you share, with our without a sequenced genome, is still vital to researchers and lays the groundwork for revolutionizing the way human genmoics research is conducted and funded. 
+
+Some of the ways you can participate prior to sequencing:
+   * Trait surveys and trait data - This standardized data allows researchers to ... Trait data will be collected via online questionnaires, a personal health record (PHR), and other platforms. Information gathered includes allergies, immunizations, personal medical history, medications, physical traits and measurements, diet, ethnicity/ancestry, lifestyle, environmental exposures and other traits. 
+   * Donate data you already have or may later obtain - by donating your 23andme [GOOD LiST?], or other sequenced data, you ... 
+   * Keep your profile up to date - by keeping your data up to date, including medical data and any other data you are willing to share, you provide invaluable resources to researchers.
+   * Third-party studies - The Harvard PGP periodically connects participants with other opportunities like  research studies or surveys that might be appropriate or of interest to our participants. All participants qualify for some of these activities and for others, only participants with sequenced genomes can participate. 
+   * Conferences and Labs - The Harvard PGP hosts an annual conference and participant-oriented labs event in Boston called the GETConference and GETLabs. In 2015 the event was entitled GET Global and was held in Vienna, Austria, in September to celebrate our 3 international partners, PGP Canada, PGP UK, and Genom Austria. We also partnered with the Mind First Foundation for the first MindEx Conference and PGPalooza, another annual Boston event open to PGP participants! http://mindfirstfoundation.org/mindex2015/ These events directly put researchers and participants face to face. 
+
 
 # Specimens/Sequencing
 ### In what order are participants sequenced? 
@@ -95,23 +92,21 @@ Our increasing success at this stage is in large part due to many individuals co
 
 Our team of researchers are continually seeking funding for sequencing and forging new relationships with industry partners in the hopes of bringing innovative solutions to participant sequencing needs. 
 
-### Test Kit Requests
-Participants often ask us if they can send us samples via a “kit” or through a lab or physician in their area. Unfortunately, we are unable at this time to accept blood unless it is collected in one of our group events.  Our scale is really small right now, and processing occurs in batches, so group collection events are our only practical method for blood sample collections at this point. 
+### Test Kits
+At this time, we do not have test kits available. We are working on options that will make donations of samples easier for participants, and as soon as something becomes avaiable, we will let you know. Until then, we will continue to notify participants about upcoming collection events, so please keep your eye out for announcements through email and the PGP site https://my.pgp-hms.org and hopefully an event will be close enough for you to attend in the not-so-distant future. 
 
-We will definitely be letting you know about upcoming collection events, so please keep your eye out for announcements through email and the PGP site https://my.pgp-hms.org and hopefully an event will be close enough for you to attend in the not-so-distant future. We are still a small project, but we are growing! 
 
-If you’d like to keep up to date with news about this study (PGP Harvard) as well as other PGP sites around the world, the GET Conference, and the recently announced Open Humans project, you might be interested in following the PersonalGenomes.org blog. It is a great way to stay in touch with what is happening with the PGP and the recently announced Open Humans project. http://blog.personalgenomes.org
-
-### How can I fund my own genome sequencing? [MODIFY FOR VERITAS OFFER]
+### How can I fund my own genome sequencing?
 At this time we are not set up for participants to fund their own sequencing through the Harvard PGP. However, if you are interested in having your genome sequenced on your own, the Harvard PGP is capable of accepting donated genomes. In order to participate in our project, it is not required that the genome be sequenced through PGP channels only.
-   
-The Harvard PGP cannot directly recommend or endorse Direct to Consumer (DTC) sequencing providers. However, you may find the following "List of Personal Genome Sequencing and Interpretation Services" a useful place to start your own research into what may be appropriate for you. http://arep.med.harvard.edu/gmc/genome_services.html This list is not necessarily up-to-date, comprehensive, or recommended by the PGP or any affiliated institutions.  
 
-### Don't spam me
+Participants are welcome to pursue sequencing through third parties and donate their data to the PGP. The Harvard PGP cannot directly recommend or endorse Direct to Consumer (DTC) sequencing providers. However, you may find the following "List of Personal Genome Sequencing and Interpretation Services" a useful place to start your own research into what may be appropriate for you. http://arep.med.harvard.edu/gmc/genome_services.html This list is not necessarily up-to-date, comprehensive, or recommended by the PGP or any affiliated institutions. 
+
+Participants may obtain sequencing by participating in the recently announced sequencing opportunity for PGP participants through Veritas Genetics http://www.prnewswire.com/news-releases/veritas-genetics-breaks-1000-whole-genome-barrier-300150585.html Participants are welcome to go to Veritas directly or wait until the opportunity is set up through the Harvard PGP as a third party activity in the coming weeks.  
+   
 
 ### How can I withdraw from the Harvard PGP? 
 
-In addition, you are welcome to post any questions, comments, or suggestions you may have to the Personal Genome Project Forum http://forum.personal-genome.org (a participant-driven group that is not officially affiliated with the Harvard PGP). You may find the PGP participant community helpful in this regard. 
+
 
 ###Donation of other genetic data
 At this time the Harvard PGP is not set up to accept donation of other genetic data except under special circumstances. We are working on having the capability, however. Please contact us if you have questions. 
