@@ -55,6 +55,10 @@ Some of the ways you can participate prior to sequencing:
    * Third-party studies - The Harvard PGP periodically connects participants with other opportunities like  research studies or surveys that might be appropriate or of interest to our participants. All participants qualify for some of these activities and for others, only participants with sequenced genomes can participate. 
    * Conferences and Labs - The Harvard PGP hosts an annual conference and participant-oriented labs event in Boston called the GETConference and GETLabs. In 2015 the event was entitled GET Global and was held in Vienna, Austria, in September to celebrate our 3 international partners, PGP Canada, PGP UK, and Genom Austria. We also partnered with the Mind First Foundation for the first MindEx Conference and PGPalooza, another annual Boston event open to PGP participants! http://mindfirstfoundation.org/mindex2015/ These events directly put researchers and participants face to face. 
 
+### How can I withdraw from the Harvard PGP? 
+You are free to decide at any time that you no longer want your tissue samples, DNA sequence data, cell lines or other information to be used as part of this study. However, it may not be possible to prevent the future use of your data, cell lines and/or other information in certain circumstances. For more information on this, please refer to the consent for participation PDF https://my.pgp-hms.org/static/PGP_Consent_2015-05-05_online_stamped.pdf 
+
+In order to withdraw from the Harvard PGP, all you have to do is log into your PGP account and select withdraw under the Account tab. https://my.pgp-hms.org 
 
 # Specimens/Sequencing
 ### In what order are participants sequenced? 
@@ -103,11 +107,7 @@ Participants are welcome to pursue sequencing through third parties and donate t
 
 Participants may obtain sequencing by participating in the recently announced sequencing opportunity for PGP participants through Veritas Genetics http://www.prnewswire.com/news-releases/veritas-genetics-breaks-1000-whole-genome-barrier-300150585.html Participants are welcome to go to Veritas directly or wait until the opportunity is set up through the Harvard PGP as a third party activity in the coming weeks.  
    
-
-### How can I withdraw from the Harvard PGP? 
-
-
-
+   
 ###Donation of other genetic data
 At this time the Harvard PGP is not set up to accept donation of other genetic data except under special circumstances. We are working on having the capability, however. Please contact us if you have questions. 
 
