@@ -1,7 +1,15 @@
-# PGP Home
+# Navigation
 
-Back to PGP Home: http://my.pgp-hms.org
+* Already a participant? See the [Participant FAQ](participant.md)
+* Looking to learn more about the PGP before joining? See the [General FAQ](learn_more.md)
+* Are you a researcher? See the [Researcher FAQ](researcher.md)
+* Back to [Harvard PGP Home](http://my.pgp-hms.org)
 
+<<<<<<< HEAD
+# Misc. FAQ
+
+## Website issues
+=======
 
 # Who is the Harvard PGP? 
 The Harvard PGP is the founding pilot project in the PersonalGenomes.org Global Network. Our project hosts publicly shared genomic and health data from thousands of participants across the United States. 
@@ -114,88 +122,7 @@ At this time the Harvard PGP is not set up to accept donation of other genetic d
 
 
 # Website issues
+>>>>>>> master
 If you have having trouble with our PGP website, please contact use at (email address) and we will try to fix the problem as soon as possible. 
 
 
-# Microsoft Healthvault
-### How do I upload my medical records to Healthvault?
-
-### Does Micrsoft Healthvault update automatically? 
-Unfortunately, Healthvault does not automatically update in our system. You can find instructions for updating your Healthvault data here: https://my.pgp-hms.org/phrccr
-
-### How can I upload other Health Records?
-If you're able to export PDF, then maybe you can upload that to your profile. You can upload the data here https://my.pgp-hms.org/user_files/new
-
-The data would then be linked to your profile, and if anyone wants to do a deep dive into your health data, it will be there. In the future, there may be the capability of analyzing data with optical character recognition. 
-
-23andme etc upload questions
-enrollment problems
-password/login problems
-name changes/address changes
-misc how to questions
-how to download full data sets from Google Cloud
-
-
-# Conferences and Special Events
-### MF2015
-This September xx-xx, 2015, the Mind First Foundation will host a very special event entitled _________. The event is open to PGP Participants. Please keep your eye out for announcements through the blog and newsletter. This will be an outstanding event. 
-
-### GET Conference
-This year the GET Conference will be held in Vienna, Austria on September 17-19, 2015, and will be the first GET Global Conference. Please check out the website here: http://www.getconference.org 
-
-The GETConference and GETLabs you are familiar with will return to Boston in 2016. Please keep your eye out for annoucements through the PGP blog http://blog.personalgenomes.org and our periodic newsletters. 
-
-# Sample Collection General Information
-### Events
-No events are scheduled at this time. Please keep your eye on the PersonalGenomes.org blog http://blog.personalgenomes.org for announcements as well as emails from the Harvard PGP.
-
-### Collection event locations and other information about sample donation
-We appreciate how enthusiastic participants are about donating samples, and we get asked all the time about kits, if there's a local lab for donations, or whether we can hold events in more locations across the country. We'd love to have collection events in many other locations, and are slowly branching out to explore this. One thing we do is check which regions have the most participants - for this we use the ZIP code in your shipping address in your account. So make sure that's up to date: it'll let us know you're there! You can update that by logging in and going to the "Account" tab and selecting "Shipping address."
-
-One thing participants may not realize is that there is actually a lot more involved than just donating a sample, which is largely why we have gone to the collection event model. Its important to remember that there are many other key elements involved, including processing logistics, sample tracking, and participant identity verification. This is a study where participant data potentially becomes public (and potentially identifiable), and this necessarily requires that certain protocols be followed. 
-
-Our staff is working hard at forging innovative relationships with partners that can perhaps simplify this process, while at the same time solving some of these problems that must be very carefully worked through in order to protect the rights of participants. 
-
-
-Participants often ask us if they can send us samples via a “kit” or through a lab in their area. Unfortunately, we are unable at this time to accept blood unless it is collected in one of our group events.  Our scale is really small right now, and processing occurs in batches, so group collection events are our only practical method for blood sample collections at this point. We are beginning to gradually host blood collection events in a few major cities, so please keep your eye out for announcements through the PGP site https://my.pgp-hms.org and hopefully and event will be closer to you in the not so distant future. 
-
-### I gave a sample already, why am I still being contacted about sample collection events? 
-As an organization, we have made a conscious decision to notify everyone in the Harvard PGP about upcoming events regardless of location or donation status for several reasons
-   1) It lets participants know that the Harvard PGP is active and growing and keeps them more up to date on our activities. Though we have necessarily been focused on Boston for the majority of our activities to date (funding for research is always tight), that is beginning to change, and we would like our participants to know that.
-   2) Broad notification allows people who might be traveling here to donate a sample, and some participants actually make a special trip to Boston to do exactly that!
-   3) The emails can often mention that we're planning collections in other places. This not only keeps participants up to date on the growth of the Harvard PGP, but it also allows them to possibly plan future travel for a closer blood collection event. 
-   4) Even if a participant can't come to a collection due to location or timing, they might know someone who would like to, and this helps us spread the word about our study. 
-
-However, if you feel that you would no longer like to receive emails from the Harvard PGP, you can select “unsubscribe” on the email you received about the blood draw. You will still be enrolled in the project, but you won’t receive general informational emails from the Harvard PGP or emails like this one that might notify you of specific PGP events. 
-
-If you choose that option, you can continue to keep up to date with news about this study (PGP Harvard) as well as other PGP sites around the world, the GET conference, and the recently announced Open Humans project by following the PersonalGenomes.org blog. It is a great way to stay in touch with what is happening with the PGP and the recently-announced Open Humans project. http://blog.personalgenomes.org
-
-
-## Special cases (lots of these)	
-complicated questions
-
-# Can the Harvard PGP Help with my Health Problems?
-We deeply appreciate how willing our participants are to publicly share their genetic data. Often participants have become interested in this mission as a result their own genetic disease, and together they are building valuable public data for understanding our genomes.
-
-Unfortunately, our project does not provide medical testing. If you need genetic testing for a suspected genetic disorder you must receive clinical genetic testing through your physician. Our project is regrettably unable to assist individuals in determining the causes of their personal genetic diseases.
-
-
-# special requests
-# special offers
-
-# Researcher Requests for PGP Data
-We've recently created a consolidated database of the Harvard PGP data.  We're in the process of putting a link up to the database from the Harvard PGP site but in the mean time you can get a SQLite version of the database by downloading it from the following page:
-
-  http://curoverse.link/22d61dd43786c65cd175b04ad6954af0+3119/html/index.html
-
- The gzipped database is called 'hu-pgp.sqlite3.gz'.  The database can also be explored in the browser.  By hitting the 'examples' tab on the left and selecting the 'uploaded_data' entry, you can explore participants uploaded data.  For example, the following query gives results that might have data you're interested in:
-
-select * from uploaded_data where (name like 'LF%' or name like '%exome%')
-
-Some participants have uploaded their 23andMe data but did not label it.  Some of this data can be captured by filtering on names that begin with "LF".
-
-Attached are the results of the above query in the form of CSV files.  The 'download_url' is relative to the 'https://my.pgp-hms.org' site.  For example, a 'download_url' entry of '/user_file/download/671' would translate to 'https://my.pgp-hms.org/user_file/download/671'.
-
-The above query does not necessarily represent a complete list of all exome data available through the Harvard PGP site.  Since participants are able to upload data it is difficult for us to definitively determine which of the uploaded data represents exome data.  With the database snapshot available you'll be able to explore this data yourself and might be able to pick out other exome data that might have been missed in the above query.
-
-If you have any problems accessing the database snapshot or have any further questions, please let us know.
