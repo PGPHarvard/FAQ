@@ -49,9 +49,18 @@ That is a decision you should make after thoroughly reading and understanding th
 
 ### Sharing participation issues with family
 The following link may be a useful one to share with your family. It is an article published in Genomes Unzipped by Dan Vorhaus discussing the potential impact of public genomics on the families of participants. In this article, he also includes a copy of the letter he sent to his own family. http://genomesunzipped.org/2010/10/why-public-genomics-is-not-a-purely-personal-decision.php
- 		 
+
+### Can I join if I live in another country?
+If you are a US citizen or permanent resident, you are eligible to become a participant in the Harvard PGP project even if you are residing in another country. However, unless you happen to be in the US when a collection event is happening, you will not be able to donate a sample for sequencing at this time. 
+
+We do, however, welcome donated data, and if you have other data available you are willing to donate to the project such as health data, completion of our trait surveys, 23andme or other direct to consumer sequencing data, etc., that information is very helpful to researchers. 
+
+If you are not already aware, PersonalGenomes.org now has other international partners, and the family is growing. Perhaps one of them may be a good fit. To date they are Genom Austria, PGP UK, and PGP Canada.
+
+Should you still be interested in participating in our study, Harvard PGP, don’t worry about the address issue for now. Its not required for participation. We use your address to target geographic notification for collection events, and if we start shipping kits again, then we would only be able to support US addresses for that (and then an address would be required to receive a kit).
+
+
 # Misc. FAQ
 
 ## Website issues
-
 If you have having trouble with our PGP website, please contact use at support at hu dot pgp dash hms dot org, and we will try to fix the problem as soon as possible.
