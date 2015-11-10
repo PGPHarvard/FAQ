@@ -3,7 +3,9 @@
 * [Back to FAQ Home](README.md)
 * [Back to Harvard PGP Home](http://my.pgp-hms.org)
 
-# Specimens/Sequencing
+#  Participant FAQ
+
+## Specimens/Sequencing
 ### In what order are participants sequenced? 
 Once you have passed the enrollment requirements for participation in the PGP, there are no selection or prioritization criteria other than "the ability to give a sample at a collection event" that determine whether a participant would potentially have a genome sequenced and returned to them. There is no prioritization in response to donations, and also no prioritization based on when a participant joined the project (i.e. there is no "queue"). Sequencing is still a costly and time-consuming process, and it occurs as resources are available. 
 
@@ -36,7 +38,7 @@ At this time we are not set up for participants to fund their own sequencing thr
    
 The Harvard PGP cannot directly recommend or endorse Direct to Consumer (DTC) sequencing providers. However, you may find the following "List of Personal Genome Sequencing and Interpretation Services" a useful place to start your own research into what may be appropriate for you. http://arep.med.harvard.edu/gmc/genome_services.html This list is not necessarily up-to-date, comprehensive, or recommended by the PGP or any affiliated institutions.  
 
-# Microsoft Healthvault
+## Microsoft Healthvault
 ### How do I upload my medical records to Healthvault?
 
 ### Does Micrsoft Healthvault update automatically? 
@@ -54,7 +56,7 @@ name changes/address changes
 misc how to questions
 how to download full data sets from Google Cloud
 
-# Sample Collection General Information
+## Sample Collection General Information
 ### Events
 No events are scheduled at this time. Please keep your eye on the PersonalGenomes.org blog http://blog.personalgenomes.org for announcements as well as emails from the Harvard PGP.
 
