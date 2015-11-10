@@ -7,7 +7,7 @@
 # Enrollment
 
 ### Are you still enrolling participants?
-Yes, we are still accepting volunteers and have recently (Aug 2015) reduced the enrollment age from 21 and older to 18 and older largely in response to participant requests. This was recently announced in our blog. [INSERT LINK] You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up
+Yes, we are still accepting volunteers and have recently (Aug 2015) reduced the enrollment age from 21 and older to 18 and older largely in response to participant requests. This was recently announced in our participant newsletter. You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up
 
 ### Why do I have to get 100% on  your eligibility questionnaire before I can join?
 To date, the PGP remains an unprecedented project. No other United States studies are generating and publicly sharing diverse and identifiable personal data. Given this unique position, the Harvard PGP feels strongly that all participants need to understand clearly what the personal implications are before they participate. We also feel strongly that it is our duty to lay the best ethical foundation possible for any future studies that may follow the PGP model.
