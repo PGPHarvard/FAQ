@@ -18,14 +18,19 @@ In order to make this possible, the Harvard PGP has pioneered the use of open co
 
 To see some examples of the datasets, including whole genomes, available through Harvard PGP, you can see our participant profiles, available at https://my.pgp-hms.org/users; to see examples of the reports provided as a courtesy to participants, see the GET-Evidence Reports available at http://evidence.pgp-hms.org/genomes; for PGP cell lines, see https://catalog.coriell.org/0/Sections/Collections/NIGMS/PGPs.aspx?PgId=772&coll=GM.
 
-### What does joining entail?
-If you successfully complete this Eligibility Screening and are subsequently enrolled in the PGP, your genetic and trait information will be made available on a publicly accessible website and database. For some participants, this will entail sample collection for banking in order to do genomic sequencing in the future, however as we are a research project run by a small and mostly volunteer staff, we cannot guarantee any timeline on sequencing. We encourage participants to consider the full range of possibilities for participating, including filling out phenotype surveys, participating in third-party research, and uploading data such as microbiome or 23andMe sequencing or medical health records.
+### Are you still enrolling participants?
+Yes, we are still accepting volunteers age 18 and older. You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up		
+ 		 
+### Why do I have to get 100% on  your eligibility questionnaire before I can join?
+To date, the PGP remains an unprecedented project. No other United States studies are generating and publicly sharing diverse and identifiable personal data. Given this unique position, the Harvard PGP feels strongly that all participants need to understand clearly what the personal implications are before they participate. We also feel strongly that it is our duty to lay the best ethical foundation possible for any future studies that may follow the PGP model.		 To date, the PGP remains an unprecedented project. No other United States studies are generating and publicly sharing diverse and identifiable personal data. Given this unique position, the Harvard PGP feels strongly that all participants need to understand clearly what the personal implications are before they participate. We also feel strongly that it is our duty to lay the best ethical foundation possible for any future studies that may follow the PGP model.
 
-### What information will be provided to me?
-Please note that, due to funding and staffing constraints, we are
-currently not able to sequence all enrolled individuals. When our
-project produces genome data for a participant, this typically means:
+### What does it mean to be a PGP Participant?
+If you successfully complete this Eligibility Screening and are subsequently enrolled in the PGP, your genetic and trait information will be made available on a publicly accessible website and database. For some participants this will include sample collection for banking for genomic sequencing in the future. However, as we are a research project run by a small and mostly volunteer staff, we cannot guarantee any timeline on sequencing. We encourage participants to consider the full range of possibilities for participating, including filling out phenotype surveys, participating in third-party research and activities, and uploading data such as microbiome data, 23andMe or other direct-to-consumer sequencing, and medical health records.
 
+### What information will be provided to me if my genome is sequenced through the PGP?
+Please note that, due to funding and staffing constraints, we are not yet able to sequence all enrolled individuals. 
+
+However, when our project produces genome data for a participant, this typically means:
   * Full "genome" sequence data, not genotyping.
   * Raw data access is provided to participants, in the format we received from the sequencing provider.
   * We also currently provide a semi-automated genome report that describes reported effects for some variants within the genome data.
