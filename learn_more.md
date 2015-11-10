@@ -11,7 +11,7 @@ The Harvard PGP was founded in 2005 with a new vision for human health research.
 
 We believe strongly that publicly sharing this data is good for science and good for society. It gives researchers access to human health data that is otherwise extremely difficult to access, thus potentially speeding up solutions to important health issues. We also try to connect participants directly with research, education, and citizen science projects that utilize personal genome data.  
 
-### What doees that mean for participants?  
+### What does that mean for participants?  
 [meaning what does participating in a research project AND a revolutionary idea of open science/sharing mean for participants in terms of timeline, effects on how research is conducted in the future, etc?
 
 ### How is the Harvard PGP different from DTC services that provide ancestry data, clinical genome sequencing, or other genomic data? 
