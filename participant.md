@@ -28,21 +28,7 @@ All blood samples collected in our blood collection events over the past year or
 
 As you know, sequencing is a lengthy and complex process, and once the sequencing is complete, there is still more that has to be done on our end before your genome is ready to be released to you. Our staff is small, so we have to do the work in batches, thus making the process take longer than we wish it would, and it can often take a year or more. 
 
-### I gave a blood sample, why isn’t it showing on my profile?
-We apologize if your profile does not reflect your sample donation. Please don't be concerned. All donated bllod samples have been logged. Unfortunately, due to our small staff, updating the site to reflect the donation can take time. If too much time has passed, and your sample donation is still not reflected on your profile, please let us know. 
-
-### Whatever happened to my saliva sample?
-Several years ago the PGP collected saliva samples from many PGP participants. Those samples are still safely banked, and that is incredibly valuable data that we hope to utilize one day. 
-
-We are a small but growing study, sequencing is costly, and technology is changing rapidly. What we initially set out to do has conceptually stayed constant. However, how we are getting there has had to shift based on real-world variables that are not always within our control. 
-
-We want to impress upon you that your support and efforts have not been wasted at all, and we do not take it for granted. Although it may personally feel that your individual investment has been underutilized until this point, your willingness to join the PGP and to donate samples (whether they were ever sequenced or not) combined with all the other individuals willing to do so, has helped prove to donors and investors that ours is a project worth investing in. 
-
-Our increasing success at this stage is in large part due to many individuals coming together in good faith over the past decade. If you have been following recent events of the Harvard PGP, you will have noticed blood collection events starting to occur across the country, and we only expect those to increase over time and in more locations. In addition, PersonalGenomes.org has recently announced a new location in Austria, adding a fourth member to the family as well as the introduction of OpenHumans.org https://www.openhumans.org  
-
-Our team of researchers are continually seeking funding for sequencing and forging new relationships with industry partners in the hopes of bringing innovative solutions to participant sequencing needs. 
-
-### Test Kit Requests
+### Do you have a test kit?
 We do not currently send out test kits as we are unable to accept blood at this time unless it is collected in one of our group events. We let participants know about upcoming collection events through email announcements and the PGP site https://my.pgp-hms.org However, the Harvard PGP is actively seeking out alternatives to specimen donation in the future. 
 
 ### How can I fund my own genome sequencing? 
@@ -51,6 +37,13 @@ At this time we are not set up for participants to fund their own sequencing thr
 The Harvard PGP cannot directly recommend or endorse Direct to Consumer (DTC) sequencing providers. However, you may find the following "List of Personal Genome Sequencing and Interpretation Services" a useful place to start your own research into what may be appropriate for you. http://arep.med.harvard.edu/gmc/genome_services.html This list is not necessarily up-to-date, comprehensive, or recommended by the PGP or any affiliated institutions.  
 
 Participants now have an additional option for sequencing through the recently announced sequencing opportunity for PGP participants through Veritas Genetics, which will be set up as a third party activity in the coming weeks.  http://www.prnewswire.com/news-releases/veritas-genetics-breaks-1000-whole-genome-barrier-300150585.html 
+
+### What happened to my saliva sample?
+The PGP collected saliva samples from many PGP participants in the past. Those samples are still safely banked, and that is incredibly valuable data that we hope to utilize one day. 
+
+We are a small but growing study, sequencing is costly, and technology is changing rapidly. What we initially set out to do has conceptually stayed constant. However, how we are getting there has had to shift based on real-world variables that are not always within our control. 
+
+Our team of researchers are continually seeking funding for sequencing and forging new relationships with industry partners in the hopes of bringing innovative solutions to participant sequencing needs. 
 
 
 ## Microsoft Healthvault
