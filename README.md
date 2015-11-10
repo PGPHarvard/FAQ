@@ -44,7 +44,12 @@ However, when our project produces genome data for a participant, this typically
 
 The PGP's goal is to accelerate research into human health and biology by collecting and sharing genomes and other data from people who have generously chosen to donate their data to the public domain. As such, our primary focus is on supporting research and not on the delivery of a product on a set timeframe. Analysis is a strong interest of our participants, but it's also expensive to perform and maintain, and so our support for it must be minimal in order to achieve our main goals. You may want to consider various commercial services that perform interpretations of genomic data, including 23andme, Family Tree DNA, or other third party analysis tools (many of these are listed by 23andyou: http://www.23andyou.com/3rdparty).
 
+### Should I join?
+That is a decision you should make after thoroughly reading and understanding the participation documents on the Harvard PGP site http://www.personalgenomes.org/harvard/sign-up Once you decide to join the Harvard PGP, you will then need to successfully complete the enrollment process. Participation isn't for everyone.
 
+### Sharing participation issues with family
+The following link may be a useful one to share with your family. It is an article published in Genomes Unzipped by Dan Vorhaus discussing the potential impact of public genomics on the families of participants. In this article, he also includes a copy of the letter he sent to his own family. http://genomesunzipped.org/2010/10/why-public-genomics-is-not-a-purely-personal-decision.php
+ 		 
 # Misc. FAQ
 
 ## Website issues
