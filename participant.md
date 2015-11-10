@@ -29,11 +29,7 @@ Our increasing success at this stage is in large part due to many individuals co
 Our team of researchers are continually seeking funding for sequencing and forging new relationships with industry partners in the hopes of bringing innovative solutions to participant sequencing needs. 
 
 ### Test Kit Requests
-Participants often ask us if they can send us samples via a “kit” or through a lab or physician in their area. Unfortunately, we are unable at this time to accept blood unless it is collected in one of our group events.  Our scale is really small right now, and processing occurs in batches, so group collection events are our only practical method for blood sample collections at this point. 
-
-We will definitely be letting you know about upcoming collection events, so please keep your eye out for announcements through email and the PGP site https://my.pgp-hms.org and hopefully an event will be close enough for you to attend in the not-so-distant future. We are still a small project, but we are growing! 
-
-If you’d like to keep up to date with news about this study (PGP Harvard) as well as other PGP sites around the world, the GET Conference, and the recently announced Open Humans project, you might be interested in following the PersonalGenomes.org blog. It is a great way to stay in touch with what is happening with the PGP and the recently announced Open Humans project. http://blog.personalgenomes.org
+We do not currently send out test kits as we are unable to accept blood at this time unless it is collected in one of our group events. We let participants know about upcoming collection events through email announcements and the PGP site https://my.pgp-hms.org However, the Harvard PGP is actively seeking out alternatives to specimen donation in the future. 
 
 ### How can I fund my own genome sequencing? [MODIFY FOR VERITAS OFFER]
 At this time we are not set up for participants to fund their own sequencing through the Harvard PGP. However, if you are interested in having your genome sequenced on your own, the Harvard PGP is capable of accepting donated genomes. In order to participate in our project, it is not required that the genome be sequenced through PGP channels only.
