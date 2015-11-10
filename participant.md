@@ -7,15 +7,15 @@
 
 ## Now that I'm enrolled, how can I participate? 
 
-### Once you are enrolled in the Harvard PGP, there are many ways to participate that are extremely valuable to researchers even before you have a sequenced genome. This is often an overlooked component of the Harvard PGP, and as a participant, it is important to recognize that the data you share, with our without a sequenced genome, is still vital to researchers and lays the groundwork for revolutionizing the way human genmoics research is conducted and funded. 
- 		 
- Some of the ways you can participate prior to sequencing:		 
-    * Trait surveys - This standardized data sets a foundation for understanding more about your "phenotype" and helps establish a prevalence and associations for these various traits and diseases in participants.
-     * Trait data - This will be collected via online questionnaires, uploading of your personal health record (PHR), and other platforms. Information gathered includes allergies, immunizations, personal medical history, medications, physical traits and measurements, diet, ethnicity/ancestry, lifestyle, environmental exposures and other traits. 
-    * Donate data you already have or may later obtain - by donating your 23andme, Ancestry DNA, or other sequencing or genotyping data you may have obtained elsewhere.
-    * Keep your profile up to date - by keeping your data up to date, including medical data and any other data you are willing to share, you provide invaluable resources to researchers.	
-    * Third-party studies - The Harvard PGP periodically connects participants with other opportunities like  research studies or surveys that might be appropriate or of interest to our participants. All participants qualify for some of these activities and for others, only participants with sequenced genomes can participate. 
-    * Conferences and Labs - The Harvard PGP hosts an annual conference and participant-oriented labs event in Boston called the GETConference and GETLabs. In 2015 the event was entitled GET Global and was held in Vienna, Austria, to celebrate our 3 international partners, PGP Canada, PGP UK, and Genom Austria. We also partnered with the Mind First Foundation for the first MindEx Conference and PGPalooza, another annual Boston event open to PGP participants! http://mindfirstfoundation.org/mindex2015/ These events directly put researchers and participants face to face. 
+### Once you are enrolled in the Harvard PGP, there are many ways to participatethat are extremely valuable to researchers, even before you have a sequenced genome. This is often an overlooked component of the Harvard PGP, and as a participant, it is important to recognize that the data you share, with or without a sequenced genome, is still vital to researchers and lays the groundwork for revolutionizing the way human genomics research is conducted and funded. 
+
+Some of the ways you can participate prior to sequencing:		 
+  * Trait surveys - This standardized data sets a foundation for understanding more about your "phenotype" and helps establish a prevalence and associations for these various traits and diseases in participants.
+  * Trait data - This will be collected via online questionnaires, uploading of your personal health record (PHR), and other platforms. Information gathered includes allergies, immunizations, personal medical history, medications, physical traits and measurements, diet, ethnicity/ancestry, lifestyle, environmental exposures and other traits. 
+  * Donate data you already have or may later obtain - by donating your 23andme, Ancestry DNA, or other sequencing or genotyping data you may have obtained elsewhere.
+  * Keep your profile up to date - by keeping your data up to date, including medical data and any other data you are willing to share, you provide invaluable resources to researchers.	
+  * Third-party studies - The Harvard PGP periodically connects participants with other opportunities like  research studies or surveys that might be appropriate or of interest to our participants. All participants qualify for some of these activities and for others, only participants with sequenced genomes can participate. 
+  * Conferences and Labs - The Harvard PGP hosts an annual conference and participant-oriented labs event in Boston called the GETConference and GETLabs. In 2015 the event was entitled GET Global and was held in Vienna, Austria, to celebrate our 3 international partners, PGP Canada, PGP UK, and Genom Austria. We also partnered with the Mind First Foundation for the first MindEx Conference and PGPalooza, another annual Boston event open to PGP participants! http://mindfirstfoundation.org/mindex2015/ These events directly put researchers and participants face to face. 
 
 
 ## Specimens/Sequencing
