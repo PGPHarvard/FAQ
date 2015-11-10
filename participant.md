@@ -53,7 +53,6 @@ The data would then be linked to your profile, and if anyone wants to do a deep 
 enrollment problems
 password/login problems
 name changes/address changes
-misc how to questions
 how to download full data sets from Google Cloud
 
 ## Sample Collection General Information
