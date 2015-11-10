@@ -49,6 +49,7 @@ We are a small but growing study, sequencing is costly, and technology is changi
 Our team of researchers are continually seeking funding for sequencing and forging new relationships with industry partners in the hopes of bringing innovative solutions to participant sequencing needs. 
 
 
+
 ## Sample Collection General Information
 ### Events
 No events are scheduled at this time. Please keep your eye on the PersonalGenomes.org blog http://blog.personalgenomes.org for announcements as well as emails from the Harvard PGP.
