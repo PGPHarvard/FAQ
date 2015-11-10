@@ -45,10 +45,13 @@ Our team of researchers are continually seeking funding for sequencing and forgi
 ### Test Kit Requests
 We do not currently send out test kits as we are unable to accept blood at this time unless it is collected in one of our group events. We let participants know about upcoming collection events through email announcements and the PGP site https://my.pgp-hms.org However, the Harvard PGP is actively seeking out alternatives to specimen donation in the future. 
 
-### How can I fund my own genome sequencing? [MODIFY FOR VERITAS OFFER]
+### How can I fund my own genome sequencing? 
 At this time we are not set up for participants to fund their own sequencing through the Harvard PGP. However, if you are interested in having your genome sequenced on your own, the Harvard PGP is capable of accepting donated genomes. In order to participate in our project, it is not required that the genome be sequenced through PGP channels only.
    
 The Harvard PGP cannot directly recommend or endorse Direct to Consumer (DTC) sequencing providers. However, you may find the following "List of Personal Genome Sequencing and Interpretation Services" a useful place to start your own research into what may be appropriate for you. http://arep.med.harvard.edu/gmc/genome_services.html This list is not necessarily up-to-date, comprehensive, or recommended by the PGP or any affiliated institutions.  
+
+Participants now have an additional option for sequencing through the recently announced sequencing opportunity for PGP participants through Veritas Genetics, which will be set up as a third party activity in the coming weeks.  http://www.prnewswire.com/news-releases/veritas-genetics-breaks-1000-whole-genome-barrier-300150585.html 
+
 
 ## Microsoft Healthvault
 ### How do I upload my medical records to Healthvault?
