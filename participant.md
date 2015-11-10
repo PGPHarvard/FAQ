@@ -57,11 +57,6 @@ If you're able to export PDF, then maybe you can upload that to your profile. Yo
 
 The data would then be linked to your profile, and if anyone wants to do a deep dive into your health data, it will be there. In the future, there may be the capability of analyzing data with optical character recognition. 
 
-23andme etc upload questions
-enrollment problems
-password/login problems
-name changes/address changes
-how to download full data sets from Google Cloud
 
 ## Sample Collection General Information
 ### Events
@@ -74,25 +69,22 @@ One thing participants may not realize is that there is actually a lot more invo
 
 Our staff is working hard at forging innovative relationships with partners that can perhaps simplify this process, while at the same time solving some of these problems that must be very carefully worked through in order to protect the rights of participants. 
 
+Please keep your eye out for announcements through the PGP site https://my.pgp-hms.org
 
-Participants often ask us if they can send us samples via a “kit” or through a lab in their area. Unfortunately, we are unable at this time to accept blood unless it is collected in one of our group events.  Our scale is really small right now, and processing occurs in batches, so group collection events are our only practical method for blood sample collections at this point. We are beginning to gradually host blood collection events in a few major cities, so please keep your eye out for announcements through the PGP site https://my.pgp-hms.org and hopefully and event will be closer to you in the not so distant future. 
+### Donation of other genetic data
+At this time the Harvard PGP is not set up to accept donation of other genetic data except under special circumstances. We are working on having the capability, however. Please contact us if you have questions.
 
 ### I gave a sample already, why am I still being contacted about sample collection events? 
-As an organization, we have made a conscious decision to notify everyone in the Harvard PGP about upcoming events regardless of location or donation status for several reasons
-   1) It lets participants know that the Harvard PGP is active and growing and keeps them more up to date on our activities. Though we have necessarily been focused on Boston for the majority of our activities to date (funding for research is always tight), that is beginning to change, and we would like our participants to know that.
-   2) Broad notification allows people who might be traveling here to donate a sample, and some participants actually make a special trip to Boston to do exactly that!
-   3) The emails can often mention that we're planning collections in other places. This not only keeps participants up to date on the growth of the Harvard PGP, but it also allows them to possibly plan future travel for a closer blood collection event. 
-   4) Even if a participant can't come to a collection due to location or timing, they might know someone who would like to, and this helps us spread the word about our study. 
+As an organization, we have made a conscious decision to notify everyone in the Harvard PGP about upcoming events regardless of location or donation status for many reasons, but primarily because it lets participants know that the Harvard PGP is active and growing and keeps them more up to date on our activities. 
 
-However, if you feel that you would no longer like to receive emails from the Harvard PGP, you can select “unsubscribe” on the email you received about the blood draw. You will still be enrolled in the project, but you won’t receive general informational emails from the Harvard PGP or emails like this one that might notify you of specific PGP events. 
+However, if you feel that you would no longer like to receive emails from the Harvard PGP, you can select “unsubscribe” on the email you received about a blood collection event. You will still be enrolled in the project, but you won’t receive general informational emails from the Harvard PGP or emails that might notify you of specific PGP events. 
 
-If you choose that option, you can continue to keep up to date with news about this study (PGP Harvard) as well as other PGP sites around the world, the GET conference, and the recently announced Open Humans project by following the PersonalGenomes.org blog. It is a great way to stay in touch with what is happening with the PGP and the recently-announced Open Humans project. http://blog.personalgenomes.org
+If you choose that option, you can continue to keep up to date with news about this study by following the PersonalGenomes.org blog. It is a great way to stay in touch with what is happening with the PGP http://blog.personalgenomes.org
 
 ## How can I withdraw from the Harvard PGP? 
 You are free to decide at any time that you no longer want your tissue samples, DNA sequence data, cell lines or other information to be used as part of this study. However, it may not be possible to prevent the future use of your data, cell lines and/or other information in certain circumstances. For more information on this, please refer to the consent for participation PDF https://my.pgp-hms.org/static/PGP_Consent_2015-05-05_online_stamped.pdf 
 
-## Donation of other genetic data
-At this time the Harvard PGP is not set up to accept donation of other genetic data except under special circumstances. We are working on having the capability, however. Please contact us if you have questions. 
+ 
 
 
 
