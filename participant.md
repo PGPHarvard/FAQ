@@ -6,6 +6,7 @@
 #  Participant FAQ
 
 ## Now that I'm enrolled, how can I participate? 
+
 ### Once you are enrolled in the Harvard PGP, there are many ways to participate that are extremely valuable to researchers even before you have a sequenced genome. This is often an overlooked component of the Harvard PGP, and as a participant, it is important to recognize that the data you share, with our without a sequenced genome, is still vital to researchers and lays the groundwork for revolutionizing the way human genmoics research is conducted and funded. 
  		 
  Some of the ways you can participate prior to sequencing:		 
