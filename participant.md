@@ -85,7 +85,7 @@ The data would then be linked to your profile, and if anyone wants to do a deep 
 
 
 ## How can I withdraw from the Harvard PGP? 
-You are free to decide at any time that you no longer want your tissue samples, DNA sequence data, cell lines or other information to be used as part of this study. However, it may not be possible to prevent the future use of your data, cell lines and/or other information in certain circumstances. For more information on this, please refer to the [consent for participation PDF](https://my.pgp-hms.org/static/PGP_Consent_2015-05-05_online_stamped.pdf} 
+You are free to decide at any time that you no longer want your tissue samples, DNA sequence data, cell lines or other information to be used as part of this study. However, it may not be possible to prevent the future use of your data, cell lines and/or other information in certain circumstances. For more information on this, please refer to the [consent for participation PDF](https://my.pgp-hms.org/static/PGP_Consent_2015-05-05_online_stamped.pdf) 
 
  
 
