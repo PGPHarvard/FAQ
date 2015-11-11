@@ -68,7 +68,7 @@ As an organization, we have made a conscious decision to notify everyone in the 
 
 However, if you feel that you would no longer like to receive emails from the Harvard PGP, you can select “unsubscribe” on the email you received about a blood collection event. You will still be enrolled in the project, but you won’t receive general informational emails from the Harvard PGP or emails that might notify you of specific PGP events. 
 
-If you choose that option, you can continue to keep up to date with news about this study by following the PersonalGenomes.org blog. It is a great way to stay in touch with what is happening with the PGP http://blog.personalgenomes.org
+If you choose that option, you can continue to keep up to date with news about this study by following the [PersonalGenomes.org blog](http://blog.personalgenomes.org). It is a great way to stay in touch with what is happening with the PGP http://blog.personalgenomes.org
 
 
 ## Microsoft Healthvault
