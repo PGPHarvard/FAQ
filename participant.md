@@ -29,14 +29,14 @@ All blood samples collected in our blood collection events over the past year or
 As you know, sequencing is a lengthy and complex process, and once the sequencing is complete, there is still more that has to be done on our end before your genome is ready to be released to you. Our staff is small, so we have to do the work in batches, thus making the process take longer than we wish it would, and it can often take a year or more. 
 
 ### Do you have a test kit?
-We do not currently send out test kits as we are unable to accept blood at this time unless it is collected in one of our group events. We let participants know about upcoming collection events through email announcements and the PGP site https://my.pgp-hms.org However, the Harvard PGP is actively seeking out alternatives to specimen donation in the future. 
+We do not currently send out test kits as we are unable to accept blood at this time unless it is collected in one of our group events. We let participants know about upcoming collection events through email announcements and the [PGP site](https://my.pgp-hms.org). However, the Harvard PGP is actively seeking out alternatives to specimen donation in the future. 
 
 ### How can I fund my own genome sequencing? 
 At this time we are not set up for participants to fund their own sequencing through the Harvard PGP. However, if you are interested in having your genome sequenced on your own, the Harvard PGP is capable of accepting donated genomes. In order to participate in our project, it is not required that the genome be sequenced through PGP channels only.
    
-The Harvard PGP cannot directly recommend or endorse Direct to Consumer (DTC) sequencing providers. However, you may find the following "List of Personal Genome Sequencing and Interpretation Services" a useful place to start your own research into what may be appropriate for you. http://arep.med.harvard.edu/gmc/genome_services.html This list is not necessarily up-to-date, comprehensive, or recommended by the PGP or any affiliated institutions.  
+The Harvard PGP cannot directly recommend or endorse Direct to Consumer (DTC) sequencing providers. However, you may find this [List of Personal Genome Sequencing and Interpretation Services](http://arep.med.harvard.edu/gmc/genome_services.html) a useful place to start your own research into what may be appropriate for you. This list is not necessarily up-to-date, comprehensive, or recommended by the PGP or any affiliated institutions.  
 
-Participants now have an additional option for sequencing through the recently announced sequencing opportunity for PGP participants through Veritas Genetics, which will be set up as a third party activity in the coming weeks.  http://www.prnewswire.com/news-releases/veritas-genetics-breaks-1000-whole-genome-barrier-300150585.html 
+Participants now have an additional option for sequencing through the [recently announced sequencing opportunity for PGP participants](http://www.prnewswire.com/news-releases/veritas-genetics-breaks-1000-whole-genome-barrier-300150585.html) through Veritas Genetics, which will be set up as a third party activity in the coming weeks.  
 
 ### Donation of other genetic data
 At this time the Harvard PGP is not set up to accept donation of other genetic data except under special circumstances. We are working on having the capability, however. Please contact us if you have questions.
@@ -52,7 +52,7 @@ Our team of researchers are continually seeking funding for sequencing and forgi
 
 ## Sample Collection General Information
 ### Events
-No events are scheduled at this time. Please keep your eye on the PersonalGenomes.org blog http://blog.personalgenomes.org for announcements as well as emails from the Harvard PGP.
+No events are scheduled at this time. Please keep your eye on the [PersonalGenomes.org blog](http://blog.personalgenomes.org) for announcements as well as emails from the Harvard PGP.
 
 ### Collection event locations and other information about sample donation
 We appreciate how enthusiastic participants are about donating samples, and we get asked all the time about kits, if there's a local lab for donations, or whether we can hold events in more locations across the country. We'd love to have collection events in many other locations, and are slowly branching out to explore this. One thing we do is check which regions have the most participants - for this we use the ZIP code in your shipping address in your account. So make sure that's up to date: it'll let us know you're there! You can update that by logging in and going to the "Account" tab and selecting "Shipping address."
@@ -61,7 +61,7 @@ One thing participants may not realize is that there is actually a lot more invo
 
 Our staff is working hard at forging innovative relationships with partners that can perhaps simplify this process, while at the same time solving some of these problems that must be very carefully worked through in order to protect the rights of participants. 
 
-Please keep your eye out for announcements through the PGP site https://my.pgp-hms.org
+Please keep your eye out for announcements through the [PGP site](https://my.pgp-hms.org)
 
 ### I gave a sample already, why am I still being contacted about sample collection events? 
 As an organization, we have made a conscious decision to notify everyone in the Harvard PGP about upcoming events regardless of location or donation status for many reasons, but primarily because it lets participants know that the Harvard PGP is active and growing and keeps them more up to date on our activities. 
