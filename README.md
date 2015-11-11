@@ -18,7 +18,7 @@ In order to make this possible, the Harvard PGP has pioneered the use of open co
 
 All genomic and health data available on the Harvard Personal Genome Project page is under a [CC0](https://creativecommons.org/about/cc0) license allowing unencumbered and free use by anyone around the world.  The CC0 license allows for the use of the Harvard Personal Genome Project data without the need for additional permission or the need credit the Harvard Personal Genome Project.
 
-To see some examples of the datasets, including whole genomes, available through Harvard PGP, you can see our [participant profiles](https://my.pgp-hms.org/users); to see examples of the reports provided as a courtesy to participants, see the [GET-Evidence Reports](http://evidence.pgp-hms.org/genomes); [PGP cell lines](https://catalog.coriell.org/0/Sections/Collections/NIGMS/PGPs.aspx?PgId=772&coll=GM) are also available.
+To see some examples of the datasets, including whole genomes, available through Harvard PGP, you can see our [participant profiles](https://my.pgp-hms.org/users); to see examples of the reports provided as a courtesy to participants, see the [GET-Evidence Reports](http://evidence.pgp-hms.org/genomes); the PGP cell lines are also available from [the Coriell institute for medical research](https://catalog.coriell.org/0/Sections/Collections/NIGMS/PGPs.aspx?PgId=772&coll=GM).
 
 ### Are you still enrolling participants?
 Yes, we are still accepting volunteers age 18 and older. You can find out more about participating on the [Harvard Personal Genome Project sign up page](http://www.personalgenomes.org/harvard/sign-up)
