@@ -7,7 +7,7 @@
 
 There is a consolidated database of the Harvard PGP available for download:
 
-* [Consolidated Database for the Harvard PGP](https://workbench.su92l.arvadosapi.com/collections/0c92e580c4d31d5acc3caa78b5cbbb75+3137/html/index.html?disposition=inline&size=33934)
+* [Consolidated Database for the Harvard PGP](https://workbench.su92l.arvadosapi.com/collections/3ccedff14c04af4d96e41e96648c55e2+3173/html/index.html)
 
 Available in the above link is a SQLite3 database (around 140Mb uncompressed) that holds information available from participant profiles along with data retrieved from participant GET-Evidence reports.  Also available are the comma and tab space delimited files used to create the SQLite3 database.  Data is periodically retrieved from the Harvard PGP site and the above link represents the most recent snapshot of the database taken.
 
