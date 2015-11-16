@@ -7,7 +7,7 @@
 ## Enrollment
 
 ### Are you still enrolling participants?
-Yes, we are still accepting volunteers and have recently (Aug 2015) reduced the enrollment age from 21 and older to 18 and older largely in response to participant requests. This was recently announced in our participant newsletter. You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up
+Yes, we are still accepting volunteers age 18 and older. Note that we in August 2015 we reduced the minimum enrollment age from 21 to 18. You can find out more about participating in the [Harvard Personal Genome Project sign up page](http://www.personalgenomes.org/harvard/sign-up)
 
 ### Why do I have to get 100% on  your eligibility questionnaire before I can join?
 To date, the PGP remains an unprecedented project. No other United States studies are generating and publicly sharing diverse and identifiable personal data. Given this unique position, the Harvard PGP feels strongly that all participants need to understand clearly what the personal implications are before they participate. We also feel strongly that it is our duty to lay the best ethical foundation possible for any future studies that may follow the PGP model.
@@ -39,19 +39,21 @@ http://genomesunzipped.org/2010/10/why-public-genomics-is-not-a-purely-personal-
 
 ## Specimens/Sequencing
 ### In what order are participants sequenced?
-Once you have passed the enrollment requirements for participation in the PGP, there are no selection or prioritization criteria other than "the ability to give a sample at a collection event" that determine whether a participant would potentially have a genome sequenced and returned to them. There is no prioritization in response to donations, and also no prioritization based on when a participant joined the project (i.e. there is no "queue"). Sequencing is still a costly and time-consuming process, and it occurs as resources are available.
+Once you have passed the enrollment requirements for participation in the PGP, there are no selection or prioritization criteria other than "the ability to give a sample at a collection event" that determine whether a participant would potentially have a genome sequenced and returned to them. There is no prioritization in response to donations, and also no prioritization based on when a participant joined the project (i.e. **there is no "queue"**). Sequencing is still a costly and time-consuming process, and it occurs as resources are available.
 
 While we don’t prioritize sequencing in return for donations, participants are welcome to [pursue sequencing through third parties and donate their data to the PGP](http://arep.med.harvard.edu/gmc/genome_services.html); or participate in the [recently announced sequencing opportunity for PGP participants through Veritas Genetics](http://www.prnewswire.com/news-releases/veritas-genetics-breaks-1000-whole-genome-barrier-300150585.htm).
 
-### What will I receive from the Harvard PGP when I get my genome sequence?
+### What information will be provided to me if my genome is sequenced through the PGP?
+Please note that, due to funding and staffing constraints, we are not yet able to sequence all enrolled individuals.
+
 When our project produces genome data for a participant, this typically means:
-   * Full "genome" sequence data, not genotyping.
+   * Full "genome" sequence data, not genotyping. (See the Biostars.org answer ["Difference Between Genotyping And Resequencing"](https://www.biostars.org/p/5197/) for an explanation of the difference)
    * Raw data access is provided to participants, in the format we received from the sequencing provider.
    * We also currently provide a semi-automated genome report that describes reported effects for some variants within the genome data.
    * This report is NOT clinical: it is limited in scope and may contain errors. The database of knowledge for genome variants is incomplete, and some reported effects are erroneous.
    * As described in our consent, genome data will become public 30 days after your have private access. Additional technical files may become public without additional notice.
    * When public, your genome data is associated with your "public profile".
-   * Currently, our genomes are produced by Complete Genomics. Technical details about their raw data files are here: http://www.completegenomics.com/customer-support/documentation/100357139-2/
+   * Currently, our genomes are produced by Complete Genomics. Technical details about their raw data files can be found in their [documentation](http://www.completegenomics.com/customer-support/documentation/100357139-2/).
    * We share a genome's raw "sequence" data (variant and coverage information). Large technical files might not be in the initial release. If/when we do make additional files public, you'll have access to these by virtue of knowing your participant ID.
 
 ## Can the Harvard PGP help with my health problems?
