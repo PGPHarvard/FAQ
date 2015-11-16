@@ -5,8 +5,7 @@
 * Are you a researcher? See the [Researcher FAQ](researcher.md)
 * Back to [Harvard PGP Home](http://my.pgp-hms.org)
 
-# General FAQ
-### What is the Harvard PGP?
+# What is the Harvard PGP?
 The Harvard Personal Genome Project is the founding pilot project in the PersonalGenomes.org Global Network. Our project hosts publicly shared genomic and health data from thousands of participants across the United States.
 
 ### The Harvard PGP is an open science research project. What does that mean?
@@ -23,26 +22,8 @@ To see some examples of the datasets, including whole genomes, available through
 ### Are you still enrolling participants?
 Yes, we are still accepting volunteers age 18 and older. You can find out more about participating on the [Harvard Personal Genome Project sign up page](http://www.personalgenomes.org/harvard/sign-up)
 
-### Why do I have to get 100% on  your eligibility questionnaire before I can join?
-To date, the PGP remains an unprecedented project. No other United States studies are generating and publicly sharing diverse and identifiable personal data. Given this unique position, the Harvard PGP feels strongly that all participants need to understand clearly what the personal implications are before they participate. We also feel strongly that it is our duty to lay the best ethical foundation possible for any future studies that may follow the PGP model.
-
-It is critical in groundbreaking studies like this one that participants have a strong understanding of the complex, nontrivial risks involved in participation, and that necessarily requires a significant consent process.
-
 ### What does it mean to be a PGP Participant?
-If you successfully complete this Eligibility Screening and are subsequently enrolled in the PGP, your genetic and trait information will be made available on a publicly accessible website and database. For some participants this will include sample collection for banking for genomic sequencing in the future. However, as we are a research project run by a small and mostly volunteer staff, we cannot guarantee any timeline on sequencing. We encourage participants to consider the full range of possibilities for participating, including filling out phenotype surveys, participating in third-party research and activities, and uploading data such as microbiome data, 23andMe or other direct-to-consumer sequencing, and medical health records.
-
-### What information will be provided to me if my genome is sequenced through the PGP?
-Please note that, due to funding and staffing constraints, we are not yet able to sequence all enrolled individuals.
-
-However, when our project produces genome data for a participant, this typically means:
-  * Full "genome" sequence data, not genotyping. (See the Biostars.org answer ["Difference Between Genotyping And Resequencing"](https://www.biostars.org/p/5197/) for an explanation of the difference)
-  * Raw data access is provided to participants, in the format we received from the sequencing provider.
-  * We also currently provide a semi-automated genome report that describes reported effects for some variants within the genome data.
-  * This report is NOT clinical: it is limited in scope and may contain errors.  The database of knowledge for genome variants is incomplete, and some reported effects are erroneous.
-  * As described in our consent, genome data will become public 30 days after your have private access. Additional technical files may become public without additional notice.
-  * When public, your genome data is associated with your "public profile".
-  * Currently, our genomes are produced by Complete Genomics. Technical details about their raw data files can be found in their [documentation](http://www.completegenomics.com/customer-support/documentation/100357139-2/).
-  * We share a genome's raw "sequence" data (variant and coverage information). Large technical files might not be in the initial release. If/when we do make additional files public, you'll have access to these by virtue of knowing your participant ID.
+If you successfully complete this Eligibility Screening and are subsequently enrolled in the PGP, your genetic and trait information will be made available on a publicly accessible website and database. For some participants this will include sample collection for banking for genomic sequencing in the future. However, as we are a research project run by a small and mostly volunteer staff, we **cannot guarantee any timeline on sequencing**. We encourage participants to consider the full range of possibilities for participating, including filling out phenotype surveys, participating in third-party research and activities, and uploading data such as microbiome data, 23andMe or other direct-to-consumer sequencing, and medical health records.
 
 ### How is the Harvard PGP different from direct-to-consumer services that provide ancestry data, clinical genome sequencing, or other genomic data?
 
