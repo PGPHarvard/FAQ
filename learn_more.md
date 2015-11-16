@@ -3,8 +3,8 @@
 * [Back to FAQ Home](README.md)
 * [Back to Harvard PGP Home](http://my.pgp-hms.org)
 
-
-# Enrollment
+# General FAQ
+## Enrollment
 
 ### Are you still enrolling participants?
 Yes, we are still accepting volunteers and have recently (Aug 2015) reduced the enrollment age from 21 and older to 18 and older largely in response to participant requests. This was recently announced in our participant newsletter. You can find out more about participating in our project here: http://www.personalgenomes.org/harvard/sign-up
@@ -37,7 +37,7 @@ Should you still be interested in participating in our study, feel free to fill 
 The following link may be a useful one to share with your family. It is an article published in Genomes Unzipped by Dan Vorhaus discussing the potential impact of public genomics on the families of participants. In this article, he also includes a copy of the letter he sent to his own family.
 http://genomesunzipped.org/2010/10/why-public-genomics-is-not-a-purely-personal-decision.php
 
-# Specimens/Sequencing
+## Specimens/Sequencing
 ### In what order are participants sequenced?
 Once you have passed the enrollment requirements for participation in the PGP, there are no selection or prioritization criteria other than "the ability to give a sample at a collection event" that determine whether a participant would potentially have a genome sequenced and returned to them. There is no prioritization in response to donations, and also no prioritization based on when a participant joined the project (i.e. there is no "queue"). Sequencing is still a costly and time-consuming process, and it occurs as resources are available.
 
@@ -54,7 +54,7 @@ When our project produces genome data for a participant, this typically means:
    * Currently, our genomes are produced by Complete Genomics. Technical details about their raw data files are here: http://www.completegenomics.com/customer-support/documentation/100357139-2/
    * We share a genome's raw "sequence" data (variant and coverage information). Large technical files might not be in the initial release. If/when we do make additional files public, you'll have access to these by virtue of knowing your participant ID.
 
-## Can the Harvard PGP help with my Health Problems?
+## Can the Harvard PGP help with my health problems?
 We deeply appreciate how willing our participants are to publicly share their genetic data. Often participants have become interested in this mission as a result their own genetic disease, and together they are building valuable public data for understanding our genomes.
 
 Unfortunately, our project does not provide medical testing. If you need genetic testing for a suspected genetic disorder you must receive clinical genetic testing through your physician. Our project is regrettably unable to assist individuals in determining the causes of their personal genetic diseases.
