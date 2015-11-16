@@ -3,7 +3,8 @@
 * [Back to FAQ Home](README.md)
 * [Back to Harvard PGP Home](http://my.pgp-hms.org)
 
-# Researcher Requests for PGP Data
+# Researcher FAQ
+### Researcher Requests for PGP Data
 
 There is a consolidated database of the Harvard PGP available for download:
 
