@@ -32,10 +32,25 @@ The spreadsheets and SQLite3 database only represent most of the data provided b
 
 Source code for download and presentation of the above database can be found on the [untap](https://github.com/abeconnelly/untap) repository.
 
+### Is there a more structured way to get participant profile information than scraping the Harvard Personal Genome Project website?
+
+Often, a `.json` extension can be added to the end to receive the information in `JSON` format from the Harvard Personal Genome Project website.
+
+For example, [https://my.pgp-hms.org/profile/hu43860C.json](https://my.pgp-hms.org/profile/hu43860C.json) will return the JSON formatted page for the [hu4380C participant's profile page]https://my.pgp-hms.org/profile/hu43860C).
+
+Other pages can be done in the same way.  For example:
+
+* [https://my.pgp-hms.org/users.json](https://my.pgp-hms.org/users.json)
+* [https://my.pgp-hms.org/specimens.json](https://my.pgp-hms.org/specimens.json)
+* [https://my.pgp-hms.org/public_genetic_data.json](https://my.pgp-hms.org/public_genetic_data.json)
+
+Appending a `&json=true` at the end of a GET-Evidence report will also yield JSON output.  For example:
+
+* [http://evidence.pgp-hms.org/genomes?display_genome_id=8280b5e784be559f7e817261129575d5dc10c46e&json=true](http://evidence.pgp-hms.org/genomes?display_genome_id=8280b5e784be559f7e817261129575d5dc10c46e&json=true)
+
 ### Where can I get the FASTQ/BAM/VCF/etc. files?
 
 Most genomic data available through the Harvard Personal Genome Project site is only available in the format provided to us by Complete Genomics (CGI) and would need to be converted.
-CGI gives us unaligned read information, variant evidence files and CGI-Var files, among others.
 All other file formats (e.g. SAM, BAM, FASTQ, VCF, etc.) are not directly provided for released whole genome data and would need to be derived by using other tools.
 
 CGI provides a suite of tools for use in analyzing and converting their data called [cgatools](http://cgatools.sourceforge.net/).
