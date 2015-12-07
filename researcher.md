@@ -35,6 +35,7 @@ Source code for download and presentation of the above database can be found on 
 ### Where can I get the FASTQ/BAM/VCF/etc. files?
 
 Most genomic data available through the Harvard Personal Genome Project site is only available in the format provided to us by Complete Genomics (CGI) and would need to be converted.
+
 CGI gives us unaligned read information, variant evidence files and CGI-Var files, among others.
 All other file formats (e.g. SAM, BAM, FASTQ, VCF, etc.) are not directly provided for released whole genome data and would need to be derived by using other tools.
 
