@@ -51,11 +51,6 @@ Appending a `&json=true` at the end of a GET-Evidence report will also yield JSO
 ### Where can I get the FASTQ/BAM/VCF/etc. files?
 
 Most genomic data available through the Harvard Personal Genome Project site is only available in the format provided to us by Complete Genomics (CGI) and would need to be converted.
-<<<<<<< HEAD
-=======
-
-CGI gives us unaligned read information, variant evidence files and CGI-Var files, among others.
->>>>>>> e9d4266bd6796c63e42e4cce91aa92532554adab
 All other file formats (e.g. SAM, BAM, FASTQ, VCF, etc.) are not directly provided for released whole genome data and would need to be derived by using other tools.
 
 CGI provides a suite of tools for use in analyzing and converting their data called [cgatools](http://cgatools.sourceforge.net/).
