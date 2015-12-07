@@ -40,13 +40,13 @@ All other file formats (e.g. SAM, BAM, FASTQ, VCF, etc.) are not directly provid
 
 CGI provides a suite of tools for use in analyzing and converting their data called [cgatools](http://cgatools.sourceforge.net/).
 Some of the data files provided to us by CGI are not available through participant profiles but are available through an [Arvados collection](https://workbench.su92l.arvadosapi.com/projects/su92l-j7d0g-nf54gdds5jj03tc#Data_collections) and mirrored on a [Google drive](https://console.developers.google.com/storage/browser/pgp-harvard-data-public/).
-For information on accesing data on the Google drive, please see [a blog post we've written](http://blog.personalgenomes.org/2014/05/30/pgp-harvard-data-in-google-cloud-storage/) about it.
+For information on accessing data on the Google drive, please see [a blog post we've written](http://blog.personalgenomes.org/2014/05/30/pgp-harvard-data-in-google-cloud-storage/) about it.
 In the future this may change, but due to space concerns, we do not make available the unaligned read information provided to us by CGI.
 
 Participants are allowed to upload any data they like, which includes FASTQ and BAM files, among others.
 This means that some data in other formats, such as BAM or FASTQ, is available because a participant uploaded the
 data themselves.
-Feel free to search the Harvard Pesronal Genome Project site for any additional genomic data that you might find useful.
+Feel free to search the Harvard Personal Genome Project site for any additional genomic data that you might find useful.
 For example, looking for FASTQ on the [public genetic data page](https://my.pgp-hms.org/public_genetic_data) shows a few participant uploaded FASTQ files.
 ### Who should I contact if run into problems/need help/have other questions
 
