@@ -41,7 +41,7 @@ All other file formats (e.g. SAM, BAM, FASTQ, VCF, etc.) are not directly provid
 
 CGI provides a suite of tools for use in analyzing and converting their data called [cgatools](http://cgatools.sourceforge.net/).
 Some of the data files provided to us by CGI are not available through participant profiles but are available through an [Arvados collection](https://workbench.su92l.arvadosapi.com/projects/su92l-j7d0g-nf54gdds5jj03tc#Data_collections) and mirrored on a [Google drive](https://console.developers.google.com/storage/browser/pgp-harvard-data-public/).
-For information on accessing data on the Google drive, please see [a blog post we've written](http://blog.personalgenomes.org/2014/05/30/pgp-harvard-data-in-google-cloud-storage/) about it.
+For information on accessing data on the Google drive, please see [our blog post](http://blog.personalgenomes.org/2014/05/30/pgp-harvard-data-in-google-cloud-storage/).
 In the future this may change, but due to space concerns, we do not make available the unaligned read information provided to us by CGI.
 
 Participants are allowed to upload any data they like, which includes FASTQ and BAM files, among others.
