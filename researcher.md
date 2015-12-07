@@ -66,3 +66,8 @@ For example, looking for FASTQ on the [public genetic data page](https://my.pgp-
 ### Who should I contact if run into problems/need help/have other questions
 
 Please feel free to contact us by [filling out a contact form](http://personalgenomes.org/harvard/contact-us) on the [PersonalGenomes.org](http://personalgenomes.org/harvardh) website.
+
+### Do I need to give credit to the Harvard Personal Genome Project if I use this data?
+
+All genomic and health data available on the Harvard Personal Genome Project page is under a [CC0](http://creativecommons.org/publicdomain/zero/1.0/) license allowing unencumbered and free use by anyone around the world.
+The CC0 license allows for the use of the Harvard Personal Genome Project data without the need for additional permission or the need to credit the Harvard Personal Genome Project.
