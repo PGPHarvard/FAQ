@@ -4,9 +4,26 @@
 * [Back to Harvard PGP Home](http://my.pgp-hms.org)
 
 # Researcher FAQ
-### Researcher Requests for PGP Data
 
-There is a consolidated database of the Harvard PGP available for download:
+### Data Access for Harvard PGP Data
+
+The Harvard Personal Genome Project participant page located at [my.pgp-hms.org](https://my.pgp-hms.org) holds information
+on participant data.
+Each Harvard Personal Genome Project participant has a profile page listing their available information.
+For example, the [profile participant for hu43860C](https://my.pgp-hms.org/profile/hu43860C) has medical information,
+the results of surveys provided by the Harvard Personal Genome Project and links to data files associated with this
+participant, including whole genome data and genotype data.
+
+The Harvard Personal Genome Project can be used to search for:
+
+* [participant profiles](https://my.pgp-hms.org/users)
+* [participant surveys](https://my.pgp-hms.org/google_surveys)
+* [specimens](https://my.pgp-hms.org/specimens)
+* [public genetic data](https://my.pgp-hms.org/public_genetic_data)
+
+among others.  Please consult the [Harvard Personal Genome Project page](https://my.pgp-hms.org/) for more detail.
+
+In addition to the Harvard Personal Genome Project site, there is a consolidated database of the Harvard PGP available for download:
 
 * [Consolidated Database for the Harvard PGP](https://workbench.su92l.arvadosapi.com/collections/3ccedff14c04af4d96e41e96648c55e2+3173/html/index.html)
 
@@ -16,4 +33,24 @@ The spreadsheets and SQLite3 database only represent most of the data provided b
 
 Source code for download and presentation of the above database can be found on the [untap](https://github.com/abeconnelly/untap) repository.
 
-Please feel free to email the Harvard Personal Genome Project staff if you have any questions or run into any problems.
+### Where can I get the FASTQ/BAM/VCF/etc. files?
+
+The majority of data made available through the Harvard Personal Genome Project staff has been received from Complete Genomics (CGI).
+CGI gives us unaligned read information, variant evidence files and CGI-Var files, among others.
+All other file formats (e.g. SAM, BAM, FASTQ, VCF, etc.) are not directly provided for released whole genome data and would need to
+be derived by using other tools.
+
+CGI provides a suite of tools for use in analyzing and converting their data called [cgatools](http://cgatools.sourceforge.net/).
+Some of the files provided to us by CGI are available through an [Arvados collection](https://workbench.su92l.arvadosapi.com/projects/su92l-j7d0g-nf54gdds5jj03tc#Data_collections) and mirrored on a [Google drive](https://console.developers.google.com/storage/browser/pgp-harvard-data-public/).
+For information on accesing data on the Google drive, please see [a blog post we've written](http://blog.personalgenomes.org/2014/05/30/pgp-harvard-data-in-google-cloud-storage/) about it.
+In the future this may change, but due to space concerns, we do not make available the unaligned read information provided to us by CGI.
+
+Participants are allowed to upload any data they like, which includes FASTQ and BAM files, among others.
+This means that some data in other formats, such as BAM or FASTQ, is available beacuse a participant uploaded the
+data themselves.
+Feel free to search the Harvard Pesronal Genome Project site for any additional genomic data that you might find useful.
+For example, looking for FASTQ on the [public genetic data page](https://my.pgp-hms.org/public_genetic_data) shows a few participant uploaded FASTQ files.
+
+### Who should I contact if run into problems/need help/have other questions
+
+Please feel free to contact us by [filling out a contact form](http://personalgenomes.org/harvard/contact-us) on the [PersonalGenomes.org](http://personalgenomes.org/harvardh) website.
